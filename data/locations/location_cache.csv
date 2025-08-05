@@ -447,7 +447,7 @@ hq_location,latitude,longitude
 "Limassol, Limassol, Cyprus",34.6852901,33.0332657
 "Douglas, South Lanarkshire, United Kingdom",55.556821,-3.8480017
 "Porto Alegre, Rio Grande do Sul, Brazil",-30.0324999,-51.2303767
-"Ljubljana, Ljubljana Urban Commune, Slovenia",46.08333,15.0
+"Ljubljana, Ljubljana Urban Commune, Slovenia",46.08333,15
 "Hanau, Hessen, Germany",50.132881,8.9169797
 "Schaan, Schaan, Liechtenstein",47.167972,9.5086934
 "Liverpool, Liverpool, United Kingdom",53.4071991,-2.99168
@@ -491,7 +491,7 @@ hq_location,latitude,longitude
 "Wollerau, Schwyz, Switzerland",47.1957261,8.7194595
 "Taiwan, Jiangsu, China",31.2798796,121.1368001
 "Geleen, Limburg, The Netherlands",50.9699953,5.8267029
-"Södertälje, Vasternorrlands Lan, Sweden",63.0,17.5
+"Södertälje, Vasternorrlands Lan, Sweden",63,17.5
 "Stafford, Staffordshire, United Kingdom",52.8063157,-2.1163818
 "Maslak, Istanbul, Turkey",41.1099991,29.020591
 "Aliso Viejo, California, United States",33.5761376,-117.7258122
@@ -615,7 +615,7 @@ hq_location,latitude,longitude
 "Lilienthal, Niedersachsen, Germany",53.1414124,8.90677
 "Langenfeld, Rheinland-Pfalz, Germany",50.3769053,7.0918196
 "Allee, Schleswig-Holstein, Germany",53.7673282,10.5844596
-"Germany, Siauliu Apskritis, Lithuania",56.0,23.33333
+"Germany, Siauliu Apskritis, Lithuania",56,23.33333
 "Cincinnati, Ohio, United States",39.1014537,-84.5124602
 "Iserlohn, Nordrhein-Westfalen, Germany",51.3746778,7.6999713
 "Geiselgasteig, Bayern, Germany",48.0626315,11.5479446
@@ -890,7 +890,7 @@ hq_location,latitude,longitude
 "Harrogate, North Yorkshire, United Kingdom",53.9921491,-1.5391039
 "Barnsley, Gloucestershire, United Kingdom",51.7527281,-1.8925418
 "West End, Hampshire, United Kingdom",50.9311026,-1.3330997
-"Portaferry, Staffordshire, United Kingdom",52.83333,-2.0
+"Portaferry, Staffordshire, United Kingdom",52.83333,-2
 "Taunton, Somerset, United Kingdom",51.0147895,-3.1029086
 "Bourne End, Buckinghamshire, United Kingdom",51.5799463,-0.7120777
 "Corby, Nottinghamshire, United Kingdom",52.48763,-0.701543
@@ -1034,7 +1034,7 @@ hq_location,latitude,longitude
 "Dewsbury, Kirklees, United Kingdom",53.6909103,-1.6302142
 "Chesham, Buckinghamshire, United Kingdom",51.7052231,-0.611116
 "Woodbridge, Suffolk, United Kingdom",52.0941323,1.3199383
-"Upper Heyford, Somerset, United Kingdom",51.083333,-3.0
+"Upper Heyford, Somerset, United Kingdom",51.083333,-3
 "Warmington, Warwickshire, United Kingdom",52.1266202,-1.4002891
 "Oxton, York, United Kingdom",53.8814667,-1.2349823
 "Littlehampton, West Sussex, United Kingdom",50.8095801,-0.5424424
@@ -1271,7 +1271,7 @@ hq_location,latitude,longitude
 "Lafayette, California, United States",37.8857582,-122.1180201
 "Montreux, Vaud, Switzerland",46.4310831,6.9129921
 "New City, New York, United States",41.1469917,-73.9902998
-"Trondheim, Sor-Trondelag, Norway",63.5,11.0
+"Trondheim, Sor-Trondelag, Norway",63.5,11
 "Setiabudi, Jakarta Raya, Indonesia",-6.2152224,106.8300413
 "Dodworth, Barnsley, United Kingdom",53.5442059,-1.5320346
 "Malibu, California, United States",34.035591,-118.689423
@@ -1414,7 +1414,7 @@ hq_location,latitude,longitude
 "Potters Bar, Hertford, United Kingdom",51.79588,-0.07854
 "Oak Brook, Illinois, United States",41.8328085,-87.9289504
 "Bali, Jawa Barat, Indonesia",-6.3841677,106.8114961
-"Globel, Bohinj Commune, Slovenia",46.08333,15.0
+"Globel, Bohinj Commune, Slovenia",46.08333,15
 "Hod Hasharon, HaMerkaz, Israel",32.15934,34.8932
 "Cheyenne, Wyoming, United States",41.139981,-104.820246
 "Pleasantville, New York, United States",41.1328736,-73.7926335
@@ -1437,7 +1437,7 @@ hq_location,latitude,longitude
 "Tirana, Tirane, Albania",41.3281482,19.8184435
 "Milwaukee, Wisconsin, United States",43.0386475,-87.9090751
 "Richmond, British Columbia, Canada",49.163168,-123.137414
-"Espoo, Southern Finland, Finland",60.83333,26.0
+"Espoo, Southern Finland, Finland",60.83333,26
 "Zollikon, Zurich, Switzerland",47.3379535,8.5755735
 "Pfaffikon, Zurich, Switzerland",47.365582,8.7819841
 "Nassau, New Providence, Bahamas",25.0782266,-77.3383438
@@ -2223,7 +2223,7 @@ hq_location,latitude,longitude
 "Glostrup, Hovedstaden, Denmark",55.6839121,12.4129262
 "Birkerød, Hovedstaden, Denmark",55.8403369,12.4287796
 "Allerød, Hovedstaden, Denmark",55.8710875,12.3569533
-"Roskilde, Sjelland, Denmark",56.0,10.0
+"Roskilde, Sjelland, Denmark",56,10
 "Holte, Syddanmark, Denmark",55.2997641,9.5471969
 "Grindsted, Syddanmark, Denmark",55.7570833,8.9277576
 "Bryrup, Midtjylland, Denmark",56.0231999,9.5231724
@@ -2243,9 +2243,9 @@ hq_location,latitude,longitude
 "Ærøskøbing, Syddanmark, Denmark",54.8896647,10.411167
 "Holstebro, Midtjylland, Denmark",56.3590324,8.6159188
 "Højslev, Midtjylland, Denmark",56.5857922,9.1361846
-"Nykøbing, Sjelland, Denmark",56.0,10.0
+"Nykøbing, Sjelland, Denmark",56,10
 "Esbjerg, Syddanmark, Denmark",55.4664892,8.4520751
-"Vesterborg, Sjelland, Denmark",56.0,10.0
+"Vesterborg, Sjelland, Denmark",56,10
 "Kastrup, Hovedstaden, Denmark",55.6357222,12.6469508
 "Viby, Midtjylland, Denmark",56.1290327,10.1624334
 "Broager, Syddanmark, Denmark",54.8892125,9.6675155
@@ -2257,10 +2257,10 @@ hq_location,latitude,longitude
 "Hellebæk, Hovedstaden, Denmark",56.0666162,12.5540236
 "Tønder, Syddanmark, Denmark",54.9380637,8.8629408
 "Nørresundby, Nordjylland, Denmark",57.0607251,9.9241319
-"Greve, Sjelland, Denmark",56.0,10.0
+"Greve, Sjelland, Denmark",56,10
 "Hornslet, Midtjylland, Denmark",56.3137043,10.3159583
 "Ikast, Midtjylland, Denmark",56.1390178,9.1547931
-"Sorø, Sjelland, Denmark",56.0,10.0
+"Sorø, Sjelland, Denmark",56,10
 "Struer, Midtjylland, Denmark",56.4866768,8.5951427
 "Hinnerup, Midtjylland, Denmark",56.2678199,10.0688688
 "Sønderborg, Syddanmark, Denmark",54.9089186,9.7897999
@@ -2440,7 +2440,7 @@ hq_location,latitude,longitude
 "Alblasserdam, Zuid-Holland, The Netherlands",51.865799,4.6653953
 "Vianen, Zuid-Holland, The Netherlands",52.1922421,4.4558593
 "Xian, Hunan, China",28.46667,111.05
-"Kuopio, Eastern Finland, Finland",62.5,28.0
+"Kuopio, Eastern Finland, Finland",62.5,28
 "Conshohocken, Pennsylvania, United States",40.0792766,-75.3015714
 "Virgin, Utah, United States",37.201902,-113.187854
 "Rochester, Minnesota, United States",44.0234387,-92.4630182
@@ -2466,7 +2466,7 @@ hq_location,latitude,longitude
 "Malta, Guarda, Portugal",40.7347001,-7.0882612
 "Haymarket, New South Wales, Australia",-33.8814408,151.2044524
 "Denzlingen, Baden-Wurttemberg, Germany",48.0669167,7.8862704
-"Bled, Bohinj Commune, Slovenia",46.08333,15.0
+"Bled, Bohinj Commune, Slovenia",46.08333,15
 "Bottighofen, Thurgau, Switzerland",47.6386883,9.2068831
 "Sherman Oaks, California, United States",34.1508718,-118.448986
 "Solna, Stockholms Lan, Sweden",59.366667,18.016667
@@ -2475,9 +2475,9 @@ hq_location,latitude,longitude
 "Lund, Skane Lan, Sweden",55.7029296,13.1929449
 "Växjö, Kronobergs Lan, Sweden",56.8787183,14.8094385
 "Denmark, South Carolina, United States",33.3226546,-81.1423236
-"Kalundborg, Sjelland, Denmark",56.0,10.0
+"Kalundborg, Sjelland, Denmark",56,10
 "Syracuse, New York, United States",43.0481221,-76.1474244
-"Vordingborg, Sjelland, Denmark",56.0,10.0
+"Vordingborg, Sjelland, Denmark",56,10
 "Örebro, Orebro Lan, Sweden",59.2747287,15.2151181
 "Sankt Polten, Niederosterreich, Austria",48.2043985,15.6229118
 "Sacramento, California, United States",38.5810606,-121.493895
@@ -2500,14 +2500,14 @@ hq_location,latitude,longitude
 "Sandnes, Rogaland, Norway",58.983132,6.394641
 "Kvinesdal, Vest-Agder, Norway",58.31215,6.96187
 "Gjøvik, Oppland, Norway",60.79574,10.69155
-"Trondhjem, Sor-Trondelag, Norway",63.5,11.0
+"Trondhjem, Sor-Trondelag, Norway",63.5,11
 "Skibotn, Troms, Norway",69.3907984,20.2678449
 "Florø, Sogn og Fjordane, Norway",61.59957,5.0328
 "Asker, Akershus, Norway",59.6812603,10.474836
-"Melhus, Sor-Trondelag, Norway",63.5,11.0
+"Melhus, Sor-Trondelag, Norway",63.5,11
 "Grimstad, Aust-Agder, Norway",58.3405,8.59343
 "Sandefjord, Vestfold, Norway",59.0799004,10.2804322
-"Arneberg, Hedmark, Norway",61.0,10.8
+"Arneberg, Hedmark, Norway",61,10.8
 "Vanse, Vest-Agder, Norway",58.09812,6.69184
 "Viken, Troms, Norway",68.8015306,17.5439721
 "Tønsberg, Vestfold, Norway",59.3549795,10.2820491
@@ -2524,7 +2524,7 @@ hq_location,latitude,longitude
 "Bjerke, More og Romsdal, Norway",62.8854306,7.067864
 "Nesttun, Hordaland, Norway",60.31821,5.35317
 "Raudeberg, Sogn og Fjordane, Norway",61.98501,5.13796
-"Tiller, Sor-Trondelag, Norway",63.5,11.0
+"Tiller, Sor-Trondelag, Norway",63.5,11
 "Are, Rogaland, Norway",59.1707157,5.4446703
 "Tartu, Tartumaa, Estonia",58.3801207,26.72245
 "Kesklinn, Harjumaa, Estonia",59.4281415,24.7606313
@@ -3056,48 +3056,48 @@ hq_location,latitude,longitude
 "Terni, Umbria, Italy",42.6539486,12.4396528
 "Cartura, Emilia-Romagna, Italy",44.46667,11.61667
 "Carmagnola, Piemonte, Italy",44.8455856,7.7192711
-"Vantaa, Southern Finland, Finland",60.83333,26.0
+"Vantaa, Southern Finland, Finland",60.83333,26
 "Kempele, Oulu, Finland",64.91245,25.5108223
 "Tampere, Western Finland, Finland",61.4789039,22.5944165
-"Turku, Western Finland, Finland",62.0,24.0
+"Turku, Western Finland, Finland",62,24
 "Uusimaa, Southern Finland, Finland",60.1725502,24.9329194
-"Pilkanmaa, Southern Finland, Finland",60.83333,26.0
-"Jyväskylä, Western Finland, Finland",62.0,24.0
-"Joensuu, Eastern Finland, Finland",62.5,28.0
-"Järvenpää, Southern Finland, Finland",60.83333,26.0
-"Sundsberg, Southern Finland, Finland",60.83333,26.0
-"Epoo, Southern Finland, Finland",60.83333,26.0
-"Lappeenranta, Southern Finland, Finland",60.83333,26.0
-"Paimio, Western Finland, Finland",62.0,24.0
+"Pilkanmaa, Southern Finland, Finland",60.83333,26
+"Jyväskylä, Western Finland, Finland",62,24
+"Joensuu, Eastern Finland, Finland",62.5,28
+"Järvenpää, Southern Finland, Finland",60.83333,26
+"Sundsberg, Southern Finland, Finland",60.83333,26
+"Epoo, Southern Finland, Finland",60.83333,26
+"Lappeenranta, Southern Finland, Finland",60.83333,26
+"Paimio, Western Finland, Finland",62,24
 "Kuhmo, Oulu, Finland",65.01236,25.46816
-"Salo, Western Finland, Finland",62.0,24.0
-"Lahti, Southern Finland, Finland",60.83333,26.0
-"Harjumaa, Eastern Finland, Finland",62.5,28.0
-"Piispanristi, Western Finland, Finland",62.0,24.0
+"Salo, Western Finland, Finland",62,24
+"Lahti, Southern Finland, Finland",60.83333,26
+"Harjumaa, Eastern Finland, Finland",62.5,28
+"Piispanristi, Western Finland, Finland",62,24
 "Vuokatti, Oulu, Finland",65.01236,25.46816
-"Kontioniemi, Eastern Finland, Finland",62.5,28.0
-"Heinävesi, Eastern Finland, Finland",62.5,28.0
-"Uusikaupunki, Western Finland, Finland",62.0,24.0
-"Savitaipale, Southern Finland, Finland",60.83333,26.0
-"Riihimäki, Southern Finland, Finland",60.83333,26.0
+"Kontioniemi, Eastern Finland, Finland",62.5,28
+"Heinävesi, Eastern Finland, Finland",62.5,28
+"Uusikaupunki, Western Finland, Finland",62,24
+"Savitaipale, Southern Finland, Finland",60.83333,26
+"Riihimäki, Southern Finland, Finland",60.83333,26
 "Ylivieska, Oulu, Finland",65.01236,25.46816
-"Sipoo, Southern Finland, Finland",60.83333,26.0
-"Savonlinna, Eastern Finland, Finland",62.5,28.0
+"Sipoo, Southern Finland, Finland",60.83333,26
+"Savonlinna, Eastern Finland, Finland",62.5,28
 "Kotka, Southern Finland, Finland",60.165809,24.9427347
 "Pori, Western Finland, Finland",61.4789039,22.5944165
-"Mikkeli, Eastern Finland, Finland",62.5,28.0
+"Mikkeli, Eastern Finland, Finland",62.5,28
 "Kajaani, Oulu, Finland",65.01236,25.46816
-"Laukaa, Western Finland, Finland",62.0,24.0
-"Pirkkala, Western Finland, Finland",62.0,24.0
-"Palokka, Western Finland, Finland",62.0,24.0
-"Pohjois-savo, Eastern Finland, Finland",62.5,28.0
-"Vaajakoski, Western Finland, Finland",62.0,24.0
+"Laukaa, Western Finland, Finland",62,24
+"Pirkkala, Western Finland, Finland",62,24
+"Palokka, Western Finland, Finland",62,24
+"Pohjois-savo, Eastern Finland, Finland",62.5,28
+"Vaajakoski, Western Finland, Finland",62,24
 "Polvijärvi, Eastern Finland, Finland",62.727125,28.3280142
 "Oulunsalo, Oulu, Finland",64.9333388,25.4166674
-"Kouvola, Southern Finland, Finland",60.83333,26.0
-"Hämeenlinna, Southern Finland, Finland",60.83333,26.0
-"Esbo, Southern Finland, Finland",60.83333,26.0
-"Söderkulla, Western Finland, Finland",62.0,24.0
+"Kouvola, Southern Finland, Finland",60.83333,26
+"Hämeenlinna, Southern Finland, Finland",60.83333,26
+"Esbo, Southern Finland, Finland",60.83333,26
+"Söderkulla, Western Finland, Finland",62,24
 "Glyfáda, Attiki, Greece",37.8615966,23.7545902
 "Ioánnina, Ioannina, Greece",39.6639818,20.8522784
 "Patras, Akhaia, Greece",38.24444,21.73444
@@ -3144,7 +3144,7 @@ hq_location,latitude,longitude
 "Spain, Georgia, United States",30.864639,-83.537938
 "Halmstad, Hallands Lan, Sweden",56.6739826,12.8574827
 "Norway, South Carolina, United States",33.4521264,-81.125756
-"Ingå, Southern Finland, Finland",60.83333,26.0
+"Ingå, Southern Finland, Finland",60.83333,26
 "Tromsø, Troms, Norway",69.6516345,18.9558585
 "Chuo, Hokkaido, Japan",43.9015139,142.6570874
 "Olonzac, Languedoc-Roussillon, France",43.508482,2.34549
@@ -3195,7 +3195,7 @@ hq_location,latitude,longitude
 "Stezzano, Lombardia, Italy",45.6513805,9.6535097
 "Ibiza, Islas Baleares, Spain",38.9743901,1.4197463
 "Dublin, Ohio, United States",40.0996009,-83.1135563
-"Rauha, Southern Finland, Finland",60.83333,26.0
+"Rauha, Southern Finland, Finland",60.83333,26
 "Álava, Asturias, Spain",43.5251822,-5.6765073
 "Salem, Oregon, United States",44.9391565,-123.033121
 "Salak Selatan, Kuala Lumpur, Malaysia",3.0982927,101.7054061
@@ -3220,7 +3220,7 @@ hq_location,latitude,longitude
 "Paphos, Paphos, Cyprus",34.7743988,32.4231586
 "Costa Mesa, California, United States",33.6633386,-117.903317
 "Manlleu, Catalonia, Spain",41.9999811,2.2841159
-"Leningradskiy, Chukot, Russian Federation",60.0,100.0
+"Leningradskiy, Chukot, Russian Federation",60,100
 "Newcastle, California, United States",38.8740658,-121.1332806
 "Uxbridge, Hillingdon, United Kingdom",51.546655,-0.4775114
 "Minnetonka, Minnesota, United States",44.9405086,-93.4638936
@@ -3229,7 +3229,7 @@ hq_location,latitude,longitude
 "Evergreen, Colorado, United States",39.6361637,-105.321458
 "Forde, More og Romsdal, Norway",62.7345,7.1506
 "Beacon, New York, United States",41.5048402,-73.9695409
-"Vaasa, Western Finland, Finland",62.0,24.0
+"Vaasa, Western Finland, Finland",62,24
 "Östersund, Jamtlands Lan, Sweden",63.1793655,14.6357061
 "Kista, Stockholms Lan, Sweden",59.4031236,17.9424221
 "Saltsjö-duvnäs, Stockholms Lan, Sweden",59.3053097,18.2047474
@@ -3321,7 +3321,7 @@ hq_location,latitude,longitude
 "Weißenhorn, Bayern, Germany",48.3044877,10.1601492
 "Eupen, Liege, Belgium",50.6305665,6.0312717
 "Montesson, Ile-de-France, France",48.9076492,2.149134
-"Saint Petersburg, Saint Petersburg City, Russian Federation",60.0,100.0
+"Saint Petersburg, Saint Petersburg City, Russian Federation",60,100
 "Prague-vinohrady, Stredocesky kraj, Czech Republic",50.12718,14.1964
 "Maisons-laffitte, Ile-de-France, France",48.9461437,2.1450951
 "Phoenix, Arizona, United States",33.4484367,-112.074141
@@ -3332,22 +3332,16 @@ hq_location,latitude,longitude
 "Llandaff, Cardiff, United Kingdom",51.4941512,-3.2176131
 "Wilson, Wyoming, United States",43.4994932,-110.872821
 "Saanen, Bern, Switzerland",46.489756,7.2615837
-"Hamburg, Germany, Europe",,
 "Spelle, Niedersachsen, Germany",52.3673241,7.4670302
 "Dubai, United Arab Emirates, Asia",9.5506,122.5164
-"Dublin, Ireland, Europe",,
 "Pennant Hills, New South Wales, Australia",-33.7384663,151.0716639
 "Saudi Arabia, Asia",24.7496736,46.5881112
-"Sweden, Europe",,
 "Stainach, Steiermark, Austria",47.5324271,14.107612
-"Moscow City, Russian Federation, Europe",,
 "Singapore, Asia",1.307094,103.787257
 "Kirchheim Bei München, Bayern, Germany",48.1806379,11.7529851
 "Scottsdale, Arizona, United States",33.4942189,-111.926018
 "Castel, Valle d'Aosta, Italy",45.8066741,7.8232607
-"Estonia, Europe",,
 "Dejvice, Hlavni mesto Praha, Czech Republic",50.106409,14.3696157
-"Zurich, Switzerland, Europe",,
 "Novosibirsk, Novosibirsk, Russian Federation",55.0288307,82.9226887
 "Paris, Arkansas, United States",35.2924747,-93.7294452
 "Demarest, New Jersey, United States",40.9573205,-73.9634708
@@ -3361,12 +3355,10 @@ hq_location,latitude,longitude
 "Waalre, Noord-Brabant, The Netherlands",51.3876404,5.4476871
 "Mersin, Mersin, Turkey",36.7978381,34.6298391
 "Berkeley, Gloucestershire, United Kingdom",51.6913643,-2.4585247
-"Malta, Europe",,
 "Wassenaar, Zuid-Holland, The Netherlands",52.1425779,4.4012224
 "United Arab Emirates, Asia",25.3936392,55.4625468
 "Russian Federation, Europe",53.3891196,58.945255
 "Austria, Europe",47.379053,13.6013553
-"Denmark, Europe",,
 "United Kingdom, Europe",52.6436272,-1.146402
 "New York, United States, North America",39.7091257,-75.5636635
 "Turkey, Europe",21.4173497,39.9001468
@@ -3374,34 +3366,23 @@ hq_location,latitude,longitude
 "Kiev, Kyyivs'ka Oblast', Ukraine",50.25,30.5
 "Rhode Island, United States, North America",37.643501,-76.918278
 "China, Asia",9.5506,122.5164
-"Lombardia, Italy, Europe",,
 "Mauthausen, Oberosterreich, Austria",48.2404063,14.5162667
 "Romania, Europe",44.479278,25.8142274
 "Omaha, Nebraska, United States",41.2587459,-95.9383758
 "Belgium, Europe",50.2946548,5.1037377
 "Motru, Gorj, Romania",44.8011015,22.9678763
 "Cabriès, Provence-Alpes-Cote d'Azur, France",43.4411965,5.3798882
-"Latvia, Europe",,
-"Tallinn, Estonia, Europe",,
-"Istanbul, Turkey, Europe",,
 "Cherry Hinton, Cambridgeshire, United Kingdom",52.1871193,0.1737678
 "German, Grad Sofiya, Bulgaria",42.6700273,23.3490174
-"England, United Kingdom, Europe",,
-"Ireland, Europe",,
 "Metropolitan, Michigan, United States",45.9946744,-87.8940211
 "Stans, Nidwalden, Switzerland",46.9570611,8.3661026
-"The Netherlands, Europe",,
 "United States, North America",40.1581972,-83.1159556
-"Izmir, Turkey, Europe",,
 "Virginia, United States, North America",33.929427,-80.33766
 "Changzhou, Zhejiang, China",29.64566,119.73993
 "Saratoga, California, United States",37.2638324,-122.0230146
-"Monaco, Monaco, Europe",,
 "Aubagne, Provence-Alpes-Cote d'Azur, France",43.2924385,5.5703031
 "Urla, Izmir, Turkey",38.3228184,26.7672998
-"Catalonia, Spain, Europe",,
 Asia,51.2086975,89.2343748
-"Manchester, United Kingdom, Europe",,
 "Wolverton, Milton Keynes, United Kingdom",52.065978,-0.8047602
 "Rishon Letsiyon, HaMerkaz, Israel",31.97102,34.78939
 "Canada, North America",45.617696,-62.7358512
@@ -3419,11 +3400,9 @@ Asia,51.2086975,89.2343748
 "Cavaillon, Provence-Alpes-Cote d'Azur, France",43.8356808,5.0383522
 "Montreal, Quebec, Canada",45.5031824,-73.5698065
 "Fort Wayne, Indiana, United States",41.0799898,-85.1386015
-"Berlin, Germany, Europe",,
 "Kabupaten, Jawa Barat, Indonesia",-6.2027897,107.1649161
 "Plzen, Plzensky kraj, Czech Republic",49.7477415,13.3775249
 "Nieuw-vennep, Noord-Holland, The Netherlands",52.2646243,4.6340331
-"Finland, Europe",,
 "Halden, Ostfold, Norway",59.0680555,11.537191
 "Chasseneuil-du-poitou, Poitou-Charentes, France",46.6505634,0.3748389
 "Cortona, Toscana, Italy",43.2752976,11.9850623
@@ -3436,31 +3415,24 @@ Asia,51.2086975,89.2343748
 "Xinchang, Zhejiang, China",29.5031469,120.8986631
 "Guadalajara, Castilla-La Mancha, Spain",40.7399963,-2.50593
 "Lenzingerberg, Bayern, Germany",48.6925049,13.4803213
-"Lithuania, Europe",,
 "Spain, Europe",39.5079538,2.5315622
 "Paray-vieille-poste, Ile-de-France, France",48.7126093,2.3637838
 "Liestal, Basel-Landschaft, Switzerland",47.4839723,7.7347783
 "Huntsville, Alabama, United States",34.729847,-86.5859011
 "Badalona, Catalonia, Spain",41.4493539,2.248254
 "San Francisco Bay Area, California, United States",37.7884969,-122.3558473
-"Edinburgh, City of, United Kingdom, Europe",,
 "West Kensington, Hammersmith and Fulham, United Kingdom",51.4907023,-0.2059442
-"Raseborg, Southern Finland, Finland",60.83333,26.0
+"Raseborg, Southern Finland, Finland",60.83333,26
 "Wohlen, Bern, Switzerland",46.9708428,7.35592
 "Philippines, Asia",9.6021766,122.4670994
 "Farmington, Connecticut, United States",41.7198216,-72.8320435
 "Germany, Europe",54.3482243,10.1178055
 "California, United States, North America",33.494126,-81.286778
-"Leeds, United Kingdom, Europe",,
-"Czech Republic, Europe",,
-"Kayseri, Turkey, Europe",,
 "Dettelbach, Bayern, Germany",49.8019103,10.1612139
 "France, Europe",48.8787706,2.3222823
-"Liverpool, United Kingdom, Europe",,
 "Alameda, California, United States",37.6090291,-121.899142
 "Santander, Cantabria, Spain",43.4618932,-3.8100255
 "Kuurne, West-Vlaanderen, Belgium",50.8522857,3.2864742
-"Madrid, Spain, Europe",,
 "Saint-didier-au-mont-d'or, Rhone-Alpes, France",45.8115147,4.7979353
 "Greece, Europe",39.6242727,19.9237448
 "Città Di Castello, Umbria, Italy",43.4574214,12.2403118
@@ -3469,9 +3441,6 @@ Asia,51.2086975,89.2343748
 "Squamish, British Columbia, Canada",49.6980743,-123.155861
 "West Haven, Connecticut, United States",41.2706527,-72.9470471
 "Saint Louis, Missouri, United States",38.6280278,-90.1910154
-"Limburg, Belgium, Europe",,
-"Poole, United Kingdom, Europe",,
-"Jersey, Europe",,
 "Saughall, Cheshire, United Kingdom",53.222851,-2.9540627
 "Kirkcaldy, Fife, United Kingdom",56.1110218,-3.1582296
 "Encinitas, California, United States",33.0369867,-117.2919818
@@ -3499,13 +3468,11 @@ Asia,51.2086975,89.2343748
 "San Luis Obispo, California, United States",35.3540209,-120.375716
 "Villars, Rhone-Alpes, France",45.4684804,4.353307
 "Cleveland, Ohio, United States",41.4996574,-81.6936772
-"Iceland, Europe",,
 "Brunete, Madrid, Spain",40.4050499,-3.9979912
 "Seville, Andalucia, Spain",37.3886303,-5.9953403
 "Denmark, Western Australia, Australia",-34.9604365,117.3551157
 "Isleworth, Hounslow, United Kingdom",51.4685202,-0.325966
 "Zurich, Zurich, Switzerland",47.3744489,8.5410422
-"Hungary, Europe",,
 "Solms, Hessen, Germany",50.5502183,8.414936
 "West Harrison, New York, United States",41.0430674,-73.7479019
 "Italy, Europe",45.0224338,7.6710102
@@ -3516,14 +3483,12 @@ Asia,51.2086975,89.2343748
 "Palau, Oceania",15.725,-93.17083
 "Casenho, Coimbra, Portugal",40.0526037,-8.7712119
 "Belarus, Europe",55.179365,28.6128796
-"Kalmar Lan, Sweden, Europe",,
 "Krasnodar, Krasnodar, Russian Federation",45.0351532,38.9772396
 "Bahrain, Asia",9.5506,122.5164
 "Henderson, Nevada, United States",36.0319843,-114.9822486
 "Hollywood, Florida, United States",26.0112014,-80.1494901
 "Leck, Lancashire, United Kingdom",54.2033008,-2.5085966
 "Mampong, Ashanti, Ghana",7.056139,-1.40425
-"Brussels Hoofdstedelijk Gewest, Belgium, Europe",,
 "Ickenham, Windsor and Maidenhead, United Kingdom",51.5237929,-0.7189899
 "Carlipa, Languedoc-Roussillon, France",43.508482,2.34549
 "Crickhowell, Powys, United Kingdom",51.859112,-3.138355
@@ -3551,7 +3516,6 @@ Asia,51.2086975,89.2343748
 "Skane, Varmlands Lan, Sweden",59.4771123,13.3358192
 "Bramhall, Stockport, United Kingdom",53.3686407,-2.1593962
 "Grassmere, Victoria, Australia",-38.2853758,142.5237312
-"Bucuresti, Romania, Europe",,
 "Borkwalde, Brandenburg, Germany",52.2545728,12.8343424
 "Washington DC Metro Area, United States, North America",34.002269,-81.081746
 "Pontresina, Graubunden, Switzerland",46.489993,9.9042965
@@ -3561,17 +3525,14 @@ Asia,51.2086975,89.2343748
 "Twickenham, Richmond upon Thames, United Kingdom",51.4467444,-0.3281887
 "Lubbock, Texas, United States",33.5855677,-101.8470215
 "Greater New York Area, United States, North America",34.130997,-79.935287
-"Bulgaria, Europe",,
 "Denham, Buckinghamshire, United Kingdom",51.5729922,-0.4998008
 "Ontario, Canada, North America",46.83945,-100.7913651
 "Bregenz, Vorarlberg, Austria",47.5025779,9.7472924
 "Granollers, Catalonia, Spain",41.6079555,2.2876008
-"Nummela, Southern Finland, Finland",60.83333,26.0
+"Nummela, Southern Finland, Finland",60.83333,26
 "Zhuhai, Guangdong, China",22.273734,113.5721327
 "South Brisbane, Queensland, Australia",-27.479264,153.0200774
 "Montreuil-sous-bois, Ile-de-France, France",48.8623357,2.4412184
-"Murcia, Spain, Europe",,
-"Hatay, Turkey, Europe",,
 "Portage, Michigan, United States",42.2011538,-85.5800022
 "Chartres, Centre, France",48.4438601,1.4881434
 "Kuhardt, Rheinland-Pfalz, Germany",49.1458635,8.3145695
@@ -3579,18 +3540,16 @@ Asia,51.2086975,89.2343748
 "Cologne, Minnesota, United States",44.771629,-93.7813523
 "Ventura, California, United States",34.4458248,-119.0779359
 "Gilbert, Arizona, United States",33.3527632,-111.789037
-"Aydin, Turkey, Europe",,
 "Wokingham, Wokingham, United Kingdom",51.4120318,-0.8324037
 "Winnetka, Illinois, United States",42.1080703,-87.7365286
 "Ibiúna, Sao Paulo, Brazil",-23.8100337,-47.1344462
 "Zhejiang, China, Asia",9.5506,122.5164
-"Valkeala, Southern Finland, Finland",60.83333,26.0
+"Valkeala, Southern Finland, Finland",60.83333,26
 "Vietnam, Asia",41.973367,-87.6573585
 "Chelyabinsk, Chelyabinsk, Russian Federation",55.1598408,61.4025547
 "Hareid, More og Romsdal, Norway",62.3598311,6.0305106
 "Chestnut Hill, Massachusetts, United States",42.3239345,-71.1629139
 "Parndorf, Burgenland, Austria",47.9973956,16.8608307
-"Glasgow City, United Kingdom, Europe",,
 "Oostkamp, West-Vlaanderen, Belgium",51.1214406,3.2342004
 "Redmond, Washington, United States",47.6694141,-122.1238767
 "Mougins, Provence-Alpes-Cote d'Azur, France",43.6008898,6.9963543
@@ -3600,35 +3559,26 @@ Asia,51.2086975,89.2343748
 "Simplon Dorf, Valais, Switzerland",46.1955875,8.0563136
 "Piatra Neamt, Neamt, Romania",46.9319894,26.3695046
 "Çankaya, Ankara, Turkey",39.8853321,32.8554966
-"Tartu, Estonia, Europe",,
 "Rungsted, Hovedstaden, Denmark",55.8885195,12.5303539
-"Braga, Portugal, Europe",,
 "Carcassonne, Languedoc-Roussillon, France",43.222304,2.34256
 "Limassol, Cyprus, Europe",34.6903732,33.0736288
 "Bad Fischau, Niederosterreich, Austria",47.8315377,16.166927
-"Adana, Turkey, Europe",,
-"Skofja Loka, Bohinj Commune, Slovenia",46.08333,15.0
-"Porto, Portugal, Europe",,
+"Skofja Loka, Bohinj Commune, Slovenia",46.08333,15
 "Veles, Veles, Macedonia",41.7240351,21.7697737
 "Hamburg, New York, United States",42.716293,-78.828717
-"Croatia, Europe",,
 "Westminster, Colorado, United States",39.8366528,-105.0372046
-"Newcastle upon Tyne, United Kingdom, Europe",,
 "Edt Bei Lambach, Oberosterreich, Austria",48.096852,13.8951529
 "Horsching, Oberosterreich, Austria",48.2264661,14.1782774
 "Portugal, Europe",45.4107784,-1.1462837
 "North Kingstown, Rhode Island, United States",41.5514283,-71.4693875
-"Slovenia, Europe",,
 "Arras, Nord-Pas-de-Calais, France",50.291048,2.7772211
-"Crnuce, Ljubljana Urban Commune, Slovenia",46.08333,15.0
+"Crnuce, Ljubljana Urban Commune, Slovenia",46.08333,15
 "Hanau Am Main, Hessen, Germany",50.1217213,8.9085545
 "Saint-laurent-du-var, Provence-Alpes-Cote d'Azur, France",43.6690101,7.1906969
 "San Fernando, California, United States",34.28497,-118.437652
 "Great Welnetham, Suffolk, United Kingdom",52.1990205,0.7503302
-"Surrey, United Kingdom, Europe",,
 "Tanzania, Africa",-5.9825335,39.3726226
 "Wootton Wawen, Warwickshire, United Kingdom",52.2676005,-1.7787222
-"Leicestershire, United Kingdom, Europe",,
 "Woldingham, Surrey, United Kingdom",51.2834651,-0.0479379
 "Abidjan, Lagunes, Côte d'Ivoire",5.675604,-4.5696693
 "Delaware, United States, North America",33.458653,-80.690229
@@ -3667,7 +3617,6 @@ Asia,51.2086975,89.2343748
 "Hyogo, Hokkaido, Japan",43.36667,144.43333
 "Goulles, Limousin, France",45.0408079,2.079085
 "Espergærde, Hovedstaden, Denmark",55.9907777,12.5529633
-"Toscana, Italy, Europe",,
 "Angola, Indiana, United States",41.634874,-84.99928
 "New Rochelle, New York, United States",40.9115386,-73.7826363
 "Ras Al Khaimah, Ras Al Khaimah, United Arab Emirates",25.7737705,55.938232
@@ -3677,13 +3626,13 @@ Asia,51.2086975,89.2343748
 "Vasto, Abruzzi, Italy",42.4423461,13.4292532
 "Wellesley Hills, Massachusetts, United States",42.3105491,-71.277031
 "Spencer, Indiana, United States",38.0288806,-86.9976446
-"Kokkola, Western Finland, Finland",62.0,24.0
-"Hollola, Southern Finland, Finland",60.83333,26.0
+"Kokkola, Western Finland, Finland",62,24
+"Hollola, Southern Finland, Finland",60.83333,26
 "Italy, Texas, United States",32.1840381,-96.8847194
 "Marylebone, Westminster, United Kingdom",51.5232789,-0.155596
 "Fujairah, Fujairah, United Arab Emirates",25.1244604,56.3355085
 "Newark, Delaware, United States",39.6828358,-75.7515682
-"Kosovo, Vojvodina, Serbia",45.0,20.0
+"Kosovo, Vojvodina, Serbia",45,20
 "Kuwait, Asia",9.5506,122.5164
 "Ikoma, Nara, Japan",34.6915267,135.6961681
 "Ramstein-miesenbach, Rheinland-Pfalz, Germany",49.4518819,7.5543118
@@ -3693,14 +3642,12 @@ Asia,51.2086975,89.2343748
 "Leverkusen, Nordrhein-Westfalen, Germany",51.0324743,6.9881194
 "Mieres, Asturias, Spain",43.2349957,-5.769932
 "Uzès, Languedoc-Roussillon, France",43.508482,2.34549
-"Valais, Switzerland, Europe",,
 "Redhill, Surrey, United Kingdom",51.2404691,-0.1682816
 "Australia, Oceania",-33.9175359,151.2583995
 "Balzers, Balzers, Liechtenstein",47.06644,9.49786
 "Slough, Buckinghamshire, United Kingdom",51.5098978,-0.5357882
 "Urdorf, Zurich, Switzerland",47.384708,8.4259004
 "Guinéa, Ziguinchor, Senegal",13.15694,-16.26167
-"Samara, Russian Federation, Europe",,
 "Abu Dhabi, United Arab Emirates, Asia",9.5506,122.5164
 "Ridgewood, New Jersey, United States",40.9796683,-74.1194403
 "Fehraltorf, Zurich, Switzerland",47.3873705,8.7520123
@@ -3714,7 +3661,7 @@ Asia,51.2086975,89.2343748
 "Alpharetta, Georgia, United States",34.0709576,-84.2747329
 "Santa Ana, California, United States",33.7494951,-117.873221
 "Bala Cynwyd, Pennsylvania, United States",40.0076125,-75.2340695
-Europe,51.0,10.0
+Europe,51,10
 "Chattanooga, Tennessee, United States",35.0457219,-85.3094883
 "Lymington, Hampshire, United Kingdom",50.7583753,-1.5426885
 "Takab, Azarbayjan-e Bakhtari, Iran",32.21667,49.8
@@ -3739,17 +3686,13 @@ Europe,51.0,10.0
 "Fermo, Marche, Italy",43.0922489,13.6387681
 "Plakowice, Dolnoslaskie, Poland",51.1123518,15.6205435
 "Güstrow, Mecklenburg-Vorpommern, Germany",53.793587,12.1764906
-"Ankara, Turkey, Europe",,
 "Schindellegi, Schwyz, Switzerland",47.175612,8.7112027
-"More og Romsdal, Norway, Europe",,
 "Hiersac, Poitou-Charentes, France",45.6686701,0.0042973
 "Tel Aviv, Israel, Asia",9.5506,122.5164
 "Frances, South Australia, Australia",-36.7132968,140.9557894
 "Greater Seattle Area, Washington, United States",47.589298,-122.384975
 "South Korea, Asia",37.6506813,126.5847877
 "Palanga, Klaipedos Apskritis, Lithuania",55.9229818,21.0682657
-"Andalucia, Spain, Europe",,
-"Chelyabinsk, Russian Federation, Europe",,
 "Bergtheim, Bayern, Germany",49.8980508,10.0696234
 "Kelsterbach, Hessen, Germany",50.065151,8.5296632
 "Baia, Campania, Italy",40.818887,14.0707481
@@ -3775,7 +3718,6 @@ Europe,51.0,10.0
 "Javené, Bretagne, France",48.3199378,-1.2174729
 "Boppard, Rheinland-Pfalz, Germany",50.2312823,7.5885884
 "Ibach, Schwyz, Switzerland",47.012328,8.6436145
-"Kaliningrad, Russian Federation, Europe",,
 "Birmingham, Michigan, United States",42.5467012,-83.2113192
 "Zirndorf, Bayern, Germany",49.445762,10.9560462
 "Lakatamia, Nicosia, Cyprus",35.1200946,33.3078496
@@ -3812,7 +3754,6 @@ Europe,51.0,10.0
 "Half Moon Bay, California, United States",37.4635519,-122.428586
 "Green Bay, Wisconsin, United States",44.5126379,-88.0125794
 "Penzberg, Bayern, Germany",47.7518502,11.3763014
-"Slovakia (Slovak Republic), Europe",,
 "Berg, Sachsen, Germany",50.5038237,11.992018
 "Herne, Vlaams-Brabant, Belgium",50.7248836,4.0281753
 "Sölvesborg, Blekinge Lan, Sweden",56.0506535,14.5871906
@@ -3820,25 +3761,20 @@ Europe,51.0,10.0
 "Appenzell, Inner-Rhoden, Switzerland",47.3299506,9.4099311
 "Northern Mariana Islands, United States, North America",37.430709,-76.393642
 "Appleton, Wisconsin, United States",44.2613967,-88.4069744
-"Turkmenistan, Asia",,
 "Dallas/Fort Worth Metroplex, Texas, United States",32.767075,-96.835675
 "Melano, Ticino, Switzerland",45.9215886,8.9860256
 "Saint-livres, Geneve, Switzerland",46.20222,6.14569
 "Bockhorn, Bayern, Germany",48.3136408,11.98632
-"Plovdiv, Bulgaria, Europe",,
 "Grand, Lorraine, France",48.386104,5.4866253
 "Ashgabat, Ahal, Turkmenistan",37.9820536,58.4922753
 "Chantilly, Picardie, France",49.1931736,2.4636686
 "Auhagen, Niedersachsen, Germany",52.3952048,9.2975364
-"Tirol, Austria, Europe",,
 "Leavenworth, Washington, United States",47.5969138,-120.661081
 "Küssnacht, Luzern, Switzerland",47.05048,8.30635
 "Frankfort, Maine, United States",44.6088438,-68.8746005
-"Paphos, Cyprus, Europe",,
 "Rhinebeck, New York, United States",41.9267604,-73.912763
 "Illinois, United States, North America",39.358318,-101.375588
 "Lincoln, California, United States",38.8915741,-121.29318
-"Poland, Europe",,
 "Kamp-lintfort, Nordrhein-Westfalen, Germany",51.5017981,6.547923
 "Greater Chicago Area, United States, North America",34.130524,-79.936157
 "Westphalia, Iowa, United States",41.7196952,-95.3949545
@@ -3869,15 +3805,12 @@ Europe,51.0,10.0
 "Bosna, Federation of Bosnia and Herzegovina, Bosnia and Herzegovina",44.4305047,18.1261298
 "Taunusstein, Hessen, Germany",50.1390989,8.1503316
 "Cherry Valley, Illinois, United States",42.2392959,-88.9597115
-"Armenia, Asia",,
 "Titusville, Florida, United States",28.6126236,-80.8079545
 "Emirdag, Afyonkarahisar, Turkey",39.0195014,31.1502583
 "Naples, Florida, United States",26.1421976,-81.7942944
-"Liechtenstein, Europe",,
 "Northlew, Devon, United Kingdom",50.7717456,-4.1289516
 "Sarajevo, Federation of Bosnia and Herzegovina, Bosnia and Herzegovina",43.8519774,18.3866868
 "Sant'arcangelo Di Romagna, Emilia-Romagna, Italy",44.4931129,11.3399679
-"Southampton, United Kingdom, Europe",,
 "Bad Vilbel, Hessen, Germany",50.19339,8.74918
 "Alamo, California, United States",37.8502033,-122.032184
 "Ruse, Ruse, Bulgaria",43.8480413,25.9542057
@@ -3889,18 +3822,16 @@ Europe,51.0,10.0
 "Tours, Champagne-Ardenne, France",49.0484724,4.1203277
 "Crockham Hill, Kent, United Kingdom",51.236974,0.0644162
 "Waidhofen, Bayern, Germany",48.5806712,11.3356983
-"Bromley, United Kingdom, Europe",,
 "Skipton, North Yorkshire, United Kingdom",53.9618497,-2.0160287
-"Cardiff, United Kingdom, Europe",,
 "Killorglin, Kerry, Ireland",52.1061973,-9.7867881
-"Harjavalta, Western Finland, Finland",62.0,24.0
+"Harjavalta, Western Finland, Finland",62,24
 "Coral Gables, Florida, United States",25.7331105,-80.2585107
 "Eminönü, Istanbul, Turkey",41.017536,28.9710147
 "Reichenschwand, Bayern, Germany",49.514273,11.3723468
 "Grafing, Bayern, Germany",48.0453808,11.966071
 "Stockach, Bayern, Germany",47.6502326,10.0688547
 "Saint Denis, Centre, France",47.87321,1.96601
-"Kalix, Norrbottens Lan, Sweden",66.0,23.0
+"Kalix, Norrbottens Lan, Sweden",66,23
 "Vejen, Syddanmark, Denmark",55.4743417,9.1317951
 "Österweg, Nordrhein-Westfalen, Germany",52.2293667,8.8065833
 "New Jersey, United States, North America",33.703423,-80.211464
@@ -3912,21 +3843,15 @@ Europe,51.0,10.0
 "Gonesse, Ile-de-France, France",48.9863555,2.4500537
 "Lucknow, Uttar Pradesh, India",26.8381,80.9346001
 "Loulé, Faro, Portugal",37.1395485,-8.0232598
-"Bern, Switzerland, Europe",,
 "Makati, Manila, Philippines",14.5567949,121.0211226
-"Gibraltar, Gibraltar, Europe",,
 "Panama City Beach, Florida, United States",30.1765914,-85.805386
 "Jingan, Shanghai, China",31.2097443,121.4726341
 "Woodmere, New York, United States",40.6320482,-73.7126314
 "Schramberg, Baden-Wurttemberg, Germany",48.225478,8.3852168
-"Lodzkie, Poland, Europe",,
-"Dundee City, United Kingdom, Europe",,
 "Offenbach, Hessen, Germany",50.1055002,8.7610698
 "Andorra, Europe",42.5088603,1.5312273
 "North Wales, Pennsylvania, United States",40.2109404,-75.2782317
-"Reading, United Kingdom, Europe",,
 "Canadian, Texas, United States",35.9120114,-100.3839018
-"Wokingham, United Kingdom, Europe",,
 "Albany, New York, United States",42.6511674,-73.754968
 "Segeltorp, Skane Lan, Sweden",56.4604981,12.7019936
 "Llangynwyd, Bridgend, United Kingdom",51.5880084,-3.6340365
@@ -3958,9 +3883,7 @@ Europe,51.0,10.0
 "Somerset, Pennsylvania, United States",39.9980022,-79.0415528
 "Saint Moritz, Graubunden, Switzerland",46.4984,9.83909
 "Tamaulipas, Mexico, North America",37.4443,-76.40633
-"Neuchatel, Switzerland, Europe",,
 "India, Asia",34.170309,77.5769738
-"Oslo, Norway, Europe",,
 "Ocean Grove, Victoria, Australia",-38.267045,144.52487
 "Delaware City, Delaware, United States",39.5778901,-75.588815
 "Orangevale, California, United States",38.6785145,-121.2257818
@@ -3970,7 +3893,6 @@ Europe,51.0,10.0
 "Manila, Philippines, Asia",9.5506,122.5164
 "Stockholm, Maine, United States",47.042522,-68.139954
 "Odenton, Maryland, United States",39.0897199,-76.7073534
-"Monte-Carlo, Monaco, Europe",,
 "Old Windsor, Windsor and Maidenhead, United Kingdom",51.4581397,-0.5808113
 "Guelph, Ontario, Canada",43.5460516,-80.2493276
 "Novi Sad, Vojvodina, Serbia",45.2551338,19.8451756
@@ -4005,21 +3927,16 @@ Europe,51.0,10.0
 "Côte d'Ivoire, Africa",5.3728419,-3.084719
 "Mellor, Lancashire, United Kingdom",53.7721875,-2.5250285
 "Roulers, West-Vlaanderen, Belgium",50.9444948,3.124765
-"Sankt Gallen, Switzerland, Europe",,
 "Værløse, Hovedstaden, Denmark",55.783333,12.383333
-"Madeira, Portugal, Europe",,
 "Gstaad, Bern, Switzerland",46.4761004,7.2873587
-"Päri, Western Finland, Finland",62.0,24.0
-"Luxembourg, Belgium, Europe",,
+"Päri, Western Finland, Finland",62,24
 "Maryland, United States, North America",33.609085,-80.345714
 "Fanar, Mont-Liban, Lebanon",33.8787799,35.5750097
 "Isny Im Allgäu, Baden-Wurttemberg, Germany",47.6920098,10.0395239
 "Pretoria, NA - South Africa, South Africa",-31.3096,18.357
 "Penn, Buckinghamshire, United Kingdom",51.6330228,-0.6879482
 "Itasca, Illinois, United States",41.9751722,-88.0067509
-"Orebro Lan, Sweden, Europe",,
 "Poplar, Tower Hamlets, United Kingdom",51.5110713,-0.0144629
-"Norway, Europe",,
 "Aydin, Aydin, Turkey",37.8483767,27.8435878
 "North Myrtle Beach, South Carolina, United States",33.8278405,-78.6800323
 "Los Altos Hills, California, United States",37.3796627,-122.137463
@@ -4060,7 +3977,7 @@ Europe,51.0,10.0
 "Steep, Hampshire, United Kingdom",51.0207568,-0.9468691
 "Hürth, Nordrhein-Westfalen, Germany",50.8807379,6.876568
 "Jazlovice, Hlavni mesto Praha, Czech Republic",50.08333,14.46667
-"Karise, Sjelland, Denmark",56.0,10.0
+"Karise, Sjelland, Denmark",56,10
 "Valle Mosso, Piemonte, Italy",45.6346399,8.1415916
 "Zevenhuizen, Zuid-Holland, The Netherlands",52.0116234,4.5802253
 "Yakutsk, Sakha, Russian Federation",62.0274078,129.7319787
@@ -4077,13 +3994,10 @@ Europe,51.0,10.0
 "Weste, Niedersachsen, Germany",53.0600164,10.7036435
 "Roswell, Georgia, United States",34.02332,-84.360022
 "Ramalhal, Santarem, Portugal",39.23333,-8.68333
-"Bayern, Germany, Europe",,
 "Turks and Caicos Islands, North America",33.510781,-80.306708
 "Haaksbergen, Overijssel, The Netherlands",52.1564581,6.740239
 "Minsk, Minsk, Belarus",53.9154648,27.5508093
 "Friendswood, Texas, United States",29.5293998,-95.2010447
-"Bratislava, Slovakia (Slovak Republic), Europe",,
-"Niedersachsen, Germany, Europe",,
 "Oregon, United States, North America",33.433999,-80.429076
 "Golden, Colorado, United States",39.7546349,-105.22058
 "La France, Rhone-Alpes, France",45.6816589,4.6314405
@@ -4093,7 +4007,6 @@ Europe,51.0,10.0
 "Colombia, South America",15.9198715,-78.5638161
 "Marchwood, Hampshire, United Kingdom",50.8878012,-1.4483258
 "Pokok Sena, Kedah, Malaysia",6.1730525,100.5203915
-"Hertford, United Kingdom, Europe",,
 "Shinjuku, Yamanashi, Japan",35.6,138.78333
 "Urmond, Limburg, The Netherlands",50.9911568,5.7717119
 "Atherton, California, United States",37.453773,-122.2058272
@@ -4101,7 +4014,6 @@ Europe,51.0,10.0
 "Esentepe, Rize, Turkey",40.8661411,40.4792031
 "Lawrence, Kansas, United States",38.9719137,-95.2359403
 "Weifang, Shandong, China",36.7071591,119.1557441
-"Isle of Man, Europe",,
 "Bluemont, Virginia, United States",39.1105537,-77.8329043
 "Panama City, Panama, Panama",8.9714493,-79.5341802
 "Guadalajara, Jalisco, Mexico",20.6720375,-103.338396
@@ -4112,9 +4024,7 @@ Europe,51.0,10.0
 "La Madeleine, Haute-Normandie, France",49.667294,-1.831371
 "Älmhult, Jonkopings Lan, Sweden",57.2253394,14.2840983
 "Gibsland, Louisiana, United States",32.5440413,-93.0529398
-"Cornwall, United Kingdom, Europe",,
 "Tafers, Fribourg, Switzerland",46.8152805,7.2167886
-"Guernsey, Europe",,
 "Meudon, Ile-de-France, France",48.8126688,2.2385432
 "Novaya, Rostov, Russian Federation",49.063416,40.085945
 "Ansfelden, Oberosterreich, Austria",48.2090744,14.2892608
@@ -4122,7 +4032,7 @@ Europe,51.0,10.0
 "Wayland, Massachusetts, United States",42.3632063,-71.3606721
 "Strassbourg, Alsace, France",48.587093,7.760438
 "Mountainside, New Jersey, United States",40.6723242,-74.3573722
-"Idrija, Idrija Commune, Slovenia",46.08333,15.0
+"Idrija, Idrija Commune, Slovenia",46.08333,15
 "Kayseri, Kayseri, Turkey",38.7219011,35.4873214
 "Kwun Tong, Kowloon, Hong Kong",22.2986711,114.237831
 "Worblaufen, Bern, Switzerland",46.9792613,7.4578175
@@ -4146,7 +4056,6 @@ Europe,51.0,10.0
 "Newtownabbey, Newtownabbey, United Kingdom",54.6900142,-5.918939
 "Hale, Cheshire, United Kingdom",53.2948218,-2.7239336
 "Saskatoon, Saskatchewan, Canada",52.131802,-106.660767
-"Ticino, Switzerland, Europe",,
 "Plano, Texas, United States",33.0136764,-96.6925096
 "Portland, Maine, United States",43.6573605,-70.2586618
 "Schiltigheim, Alsace, France",48.6047148,7.7484488
@@ -4191,11 +4100,9 @@ Europe,51.0,10.0
 "Muiden, Noord-Holland, The Netherlands",52.3301851,5.0692658
 "Nilüfer, Bursa, Turkey",40.2169975,28.9847907
 "Utting, Bayern, Germany",48.822143,13.0833231
-"Huddinge, Stockholms Lan, Sweden",59.216667,18.0
+"Huddinge, Stockholms Lan, Sweden",59.216667,18
 "Japan, Asia",34.7273701,135.3040278
-"Leicester, United Kingdom, Europe",,
 "Legnaro, Veneto, Italy",45.345648,11.963935
-"Malta, Malta, Europe",,
 "Kefar Sava, HaMerkaz, Israel",32.175,34.90694
 "Otemachi, Tokyo, Japan",35.6839724,139.7626682
 "Monroe, Louisiana, United States",32.5025471,-92.116219
@@ -4254,7 +4161,6 @@ Europe,51.0,10.0
 "Bodrum, Mugla, Turkey",37.0343987,27.430651
 "Greater Boston Area, United States, North America",34.130524,-79.936157
 "Ougrée, Liege, Belgium",50.591146,5.5439611
-"Coventry, United Kingdom, Europe",,
 "Madurai, Tamil Nadu, India",9.9261153,78.1140983
 "Komárom, Komarom-Esztergom, Hungary",47.7417349,18.1218256
 "Key Biscayne, Florida, United States",25.6968351,-80.1635261
@@ -4279,7 +4185,7 @@ Europe,51.0,10.0
 "Nelson, British Columbia, Canada",49.494891,-117.290039
 "Mestre, Veneto, Italy",45.4943063,12.2418053
 "Tourves, Provence-Alpes-Cote d'Azur, France",43.407701,5.9243299
-"Kaarina, Western Finland, Finland",62.0,24.0
+"Kaarina, Western Finland, Finland",62,24
 "Allentown, Pennsylvania, United States",40.6022059,-75.4712794
 "Täby, Uppsala Lan, Sweden",59.762855,17.9232581
 "Willington, Derbyshire, United Kingdom",52.853075,-1.5630055
@@ -4290,7 +4196,6 @@ Europe,51.0,10.0
 "Hopkins, Minnesota, United States",44.9243986,-93.4114487
 "Yucca Valley, California, United States",34.1236205,-116.4139839
 "Osmangazi, Ankara, Turkey",40.0137581,32.8604171
-"Cork, Ireland, Europe",,
 "Alberta, Canada, North America",38.896037,-101.748008
 "Saint Etienne, Rhone-Alpes, France",45.4401467,4.3873058
 "Kurtulus, Sirnak, Turkey",37.2012107,41.7004595
@@ -4300,7 +4205,7 @@ Europe,51.0,10.0
 "Charbonnières-les-bains, Rhone-Alpes, France",45.7787,4.7459
 "Bad Neuenahr-ahrweiler, Rheinland-Pfalz, Germany",50.5444551,7.1186671
 "Hercules, California, United States",38.0171441,-122.2885808
-"Marupe, Rigas, Latvia",57.0,25.0
+"Marupe, Rigas, Latvia",57,25
 "Sibiu, Sibiu, Romania",45.7973912,24.1519202
 "Oxford, New Jersey, United States",40.8031545,-74.9896163
 "Lansing, Michigan, United States",42.7338254,-84.5546295
@@ -4311,12 +4216,11 @@ Europe,51.0,10.0
 "Le Tampon, NA - Reunion, Reunion",-21.2774285,55.5164178
 "Jonschwil, Ausser-Rhoden, Switzerland",47.38937,9.39818
 "Utah, United States, North America",39.351827,-100.441835
-"Antwerpen, Belgium, Europe",,
 "Ermezinde, Porto, Portugal",41.2171245,-8.5541513
 "Frodsham, Cheshire West and Chester, United Kingdom",53.2963636,-2.7114845
 "Malvern, Pennsylvania, United States",40.036202,-75.5138959
 "Chatsworth, California, United States",34.2572499,-118.6017022
-"Hyvinkää, Southern Finland, Finland",60.83333,26.0
+"Hyvinkää, Southern Finland, Finland",60.83333,26
 "Lethbridge, Alberta, Canada",49.6945782,-112.8331033
 "Panama, North America",35.7682279,-81.2001615
 "Wixom, Michigan, United States",42.5246873,-83.5363637
@@ -4348,18 +4252,13 @@ Europe,51.0,10.0
 "Brookline, Massachusetts, United States",42.332918,-71.1187829
 "Fermoy, Cork, Ireland",52.1381665,-8.275223
 "Horw, Luzern, Switzerland",47.0185008,8.3107797
-"Derby, United Kingdom, Europe",,
-"Monaco, Europe",,
 "Grindavík, Gullbringusysla, Iceland",63.91667,-22.25
 "North Miami Beach, Florida, United States",25.9331488,-80.1625463
 "Bletchley, Essex, United Kingdom",51.9980518,-0.7309382
 "Great Brington, Northamptonshire, United Kingdom",52.2791465,-1.0251429
 "Joinville-le-pont, Ile-de-France, France",48.8183717,2.4668077
-"Plymouth, United Kingdom, Europe",,
-"Minsk, Belarus, Europe",,
 "Jackson, Mississippi, United States",32.2998686,-90.1830408
 "Texas, United States, North America",39.0778132,-108.5203723
-"Barnet, United Kingdom, Europe",,
 "Winston Salem, North Carolina, United States",36.0998131,-80.2440518
 "Hunton, Kent, United Kingdom",51.2227983,0.4638088
 "Chandigarh, Chandigarh, India",30.7334421,76.7797143
@@ -4374,7 +4273,7 @@ Europe,51.0,10.0
 "Jülich, Nordrhein-Westfalen, Germany",50.9220931,6.3611015
 "Cividale Del Friuli, Friuli-Venezia Giulia, Italy",46.0936233,13.4303277
 "Portsmouth, New Hampshire, United States",43.0702223,-70.7548621
-"Jesenice, Jesenice Commune, Slovenia",46.08333,15.0
+"Jesenice, Jesenice Commune, Slovenia",46.08333,15
 "Ternitz, Niederosterreich, Austria",47.7066007,16.0194688
 "Villa Del Conte, Veneto, Italy",45.586598,11.859005
 "Novara, Piemonte, Italy",45.58425,8.545997
@@ -4413,16 +4312,10 @@ Europe,51.0,10.0
 "Ahrensburg, Schleswig-Holstein, Germany",53.6736529,10.2358999
 "Au, Sankt Gallen, Switzerland",47.4331806,9.6365141
 "Emmering, Bayern, Germany",48.1807375,11.2805755
-"Westminster, United Kingdom, Europe",,
 "Sandhurst, Hampshire, United Kingdom",51.3383833,-0.7985726
 "Qatar, Asia",25.0684977,55.3080824
-"Astrakhan', Russian Federation, Europe",,
-"Buckinghamshire, United Kingdom, Europe",,
-"Birmingham, United Kingdom, Europe",,
 "Bagmati, Nepal, Asia",9.5506,122.5164
 "Cheshunt, Herefordshire, United Kingdom",52.08333,-2.75
-"Oulu, Finland, Europe",,
-"Salzburg, Austria, Europe",,
 "Thailand, Asia",25.0669557,55.3057409
 "Ile-de-France, France, Europe",48.8787706,2.3222823
 "Beachmere, Queensland, Australia",-27.1303586,153.0520041
@@ -4434,7 +4327,6 @@ Europe,51.0,10.0
 "Engelberg, Obwalden, Switzerland",46.8223497,8.4043996
 "Ilseng, Hedmark, Norway",60.7757,11.22725
 "Yerevan, Armenia, Asia",9.5506,122.5164
-"Taiwan, Asia",,
 "Neckarsulm, Baden-Wurttemberg, Germany",49.191133,9.2248391
 "Bocholt, Nordrhein-Westfalen, Germany",51.8382715,6.6148669
 "Bad Essen, Niedersachsen, Germany",52.3195756,8.3440599
@@ -4442,7 +4334,6 @@ Europe,51.0,10.0
 "Uckfield, East Sussex, United Kingdom",50.9705836,0.0930414
 "Uruguay, South America",37.329217,-86.364699
 "Danville, California, United States",37.8225892,-122.0008254
-"Fribourg, Switzerland, Europe",,
 "Gloppen, Sogn og Fjordane, Norway",61.81016,6.15321
 "United, Pennsylvania, United States",40.2184039,-79.4878157
 "Mugla, Mugla, Turkey",37.2151784,28.363733
@@ -4460,17 +4351,17 @@ Europe,51.0,10.0
 "Belin, Aquitaine, France",44.4930554,-0.7906699
 "Neukirchen, Sachsen, Germany",50.7958012,12.3786314
 "Lignières, Obwalden, Switzerland",46.87983,8.26557
-"Maribor, Maribor Commune, Slovenia",46.08333,15.0
+"Maribor, Maribor Commune, Slovenia",46.08333,15
 "Straße, Rheinland-Pfalz, Germany",50.58333,7.81667
 "Batesland, South Dakota, United States",43.127384,-102.1018507
 "Capoterra, Sardegna, Italy",39.175313,8.9719503
 "Andorra la Vella, Andorra, Europe",42.5088603,1.5312273
 "San Gwann, NA - Malta, Malta",35.9053127,14.4718999
-"Kamnik, Bohinj Commune, Slovenia",46.08333,15.0
-"Trbovlje, Trbovlje Commune, Slovenia",46.08333,15.0
-"Kranj, Kranj Commune, Slovenia",46.08333,15.0
+"Kamnik, Bohinj Commune, Slovenia",46.08333,15
+"Trbovlje, Trbovlje Commune, Slovenia",46.08333,15
+"Kranj, Kranj Commune, Slovenia",46.08333,15
 "Capellen, Luxembourg, Luxembourg",49.659781,5.9154444
-"Skofja Loka, Skofja Loka Commune, Slovenia",46.08333,15.0
+"Skofja Loka, Skofja Loka Commune, Slovenia",46.08333,15
 "Schrassig, Luxembourg, Luxembourg",49.6107061,6.2558038
 "Varazdin, Varazdinska, Croatia",46.3079645,16.3378198
 "Plovdiv, Plovdiv, Bulgaria",42.1418541,24.7499297
@@ -4479,23 +4370,132 @@ Europe,51.0,10.0
 "Sofiya, Grad Sofiya, Bulgaria",42.6792938,23.3011089
 "Dahlem, Luxembourg, Luxembourg",49.60222,5.94833
 "Burgas, Burgas, Bulgaria",42.4936616,27.4721276
-"Lasko, Lasko Commune, Slovenia",46.08333,15.0
+"Lasko, Lasko Commune, Slovenia",46.08333,15
 "Elin Pelin, Sofiya, Bulgaria",42.66667,23.6
 "Foetz, Luxembourg, Luxembourg",49.52944,6.01083
 "Dnipropetrovsk, Dnipropetrovs'ka Oblast', Ukraine",48.5099398,34.6071615
 "Radnevo, Stara Zagora, Bulgaria",42.2890477,25.9338724
 "Odesa, Odes'ka Oblast', Ukraine",46.47747,30.73262
-"Gornja Radgona, Gornja Radgona Commune, Slovenia",46.08333,15.0
+"Gornja Radgona, Gornja Radgona Commune, Slovenia",46.08333,15
 "Lucko, Grad Zagreb, Croatia",45.7610882,15.8839524
 "Split, Splitsko-Dalmatinska, Croatia",43.5116383,16.4399659
-"Kharkiv, Sums'ka Oblast', Ukraine",51.0,34.0
-"Medvode, Medvode Commune, Slovenia",46.08333,15.0
+"Kharkiv, Sums'ka Oblast', Ukraine",51,34
+"Medvode, Medvode Commune, Slovenia",46.08333,15
 "Solin, Splitsko-Dalmatinska, Croatia",43.5442913,16.4853016
 "Stamboliyski, Plovdiv, Bulgaria",42.1363756,24.5376825
 "Pula, Istarska, Croatia",44.8702281,13.8455311
 "Kyyiv, Kyyivs'ka Oblast', Ukraine",50.25,30.5
 "Sumy, Sums'ka Oblast', Ukraine",50.9216,34.80029
 "Zaporizhzhya, Zaporiz'ka Oblast', Ukraine",47.82289,35.19031
-"Brezice, Brezovica Commune, Slovenia",46.08333,15.0
+"Brezice, Brezovica Commune, Slovenia",46.08333,15
 "Vinnytsya, Vinnyts'ka Oblast', Ukraine",49.23278,28.48097
 "Chernivtsi, Chernivets'ka Oblast', Ukraine",48.29149,25.94034
+"Hamburg, Germany, Europe",53.550341,10.000654
+"Dublin, Ireland, Europe",53.3493795,-6.2605593
+"Sweden, Europe",59.6749712,14.5208584
+"Moscow City, Russian Federation, Europe",55.625578,37.6063916
+"Estonia, Europe",58.7523778,25.3319078
+"Zurich, Switzerland, Europe",47.3744489,8.5410422
+"Malta, Europe",35.8885993,14.4476911
+"Denmark, Europe",55.670249,10.3333283
+"Lombardia, Italy, Europe",45.5703694,9.7732524
+"Latvia, Europe",56.8406494,24.7537645
+"Tallinn, Estonia, Europe",59.4372155,24.7453688
+"Istanbul, Turkey, Europe",41.006381,28.9758715
+"England, United Kingdom, Europe",52.5310214,1.2649062
+"Ireland, Europe",52.865196,-7.9794599
+"The Netherlands, Europe",52.2434979,5.6343227
+"Izmir, Turkey, Europe",38.23166,27.02997
+"Monaco, Monaco, Europe",43.7323492,7.4276832
+"Catalonia, Spain, Europe",41.8523094,1.5745043
+"Manchester, United Kingdom, Europe",53.4794892,-2.2451148
+"Berlin, Germany, Europe",52.510885,13.3989367
+"Finland, Europe",63.2467777,25.9209164
+"Lithuania, Europe",55.3500003,23.7499997
+"Edinburgh, City of, United Kingdom, Europe",55.9533456,-3.1883749
+"Leeds, United Kingdom, Europe",53.7974185,-1.5437941
+"Czech Republic, Europe",49.7439047,15.3381061
+"Kayseri, Turkey, Europe",38.7219011,35.4873214
+"Liverpool, United Kingdom, Europe",53.4071991,-2.99168
+"Madrid, Spain, Europe",40.4167047,-3.7035825
+"Limburg, Belgium, Europe",51.2015196,5.9046302
+"Poole, United Kingdom, Europe",50.7179472,-1.981521
+"Jersey, Europe",49.2214561,-2.1358386
+"Iceland, Europe",64.9841821,-18.1059013
+"Hungary, Europe",47.1817585,19.5060937
+"Kalmar Lan, Sweden, Europe",57.0278424,16.575102
+"Brussels Hoofdstedelijk Gewest, Belgium, Europe",50.8465573,4.351697
+"Bucuresti, Romania, Europe",44.4361414,26.1027202
+"Bulgaria, Europe",42.6073975,25.4856617
+"Murcia, Spain, Europe",37.9923795,-1.1305431
+"Hatay, Turkey, Europe",36.3451332,36.0748022
+"Aydin, Turkey, Europe",37.8483767,27.8435878
+"Glasgow City, United Kingdom, Europe",55.861155,-4.2501687
+"Tartu, Estonia, Europe",58.3801207,26.72245
+"Braga, Portugal, Europe",41.5510583,-8.4280045
+"Adana, Turkey, Europe",36.9863599,35.3252861
+"Porto, Portugal, Europe",41.1621464,-8.6251168
+"Croatia, Europe",45.3267695,14.4402782
+"Newcastle upon Tyne, United Kingdom, Europe",54.9738474,1.6131572
+"Slovenia, Europe",46.1199444,14.8153333
+"Surrey, United Kingdom, Europe",51.2715316,0.3414524
+"Leicestershire, United Kingdom, Europe",52.6849138,1.1847653
+"Toscana, Italy, Europe",43.4586541,11.1389204
+"Valais, Switzerland, Europe",46.2303063,7.6605757
+"Samara, Russian Federation, Europe",53.1956255,50.1014927
+"Ankara, Turkey, Europe",39.9207759,32.8540497
+"More og Romsdal, Norway, Europe",62.8452777,7.5181941
+"Andalucia, Spain, Europe",37.3399964,-4.5811614
+"Chelyabinsk, Russian Federation, Europe",55.1598408,61.4025547
+"Kaliningrad, Russian Federation, Europe",54.7046485,20.4565666
+"Slovakia (Slovak Republic), Europe",48.7411522,19.4528646
+"Turkmenistan, Asia",39.3763807,59.3924609
+"Plovdiv, Bulgaria, Europe",42.1418541,24.7499297
+"Tirol, Austria, Europe",47.223193,11.5261028
+"Paphos, Cyprus, Europe",34.7743988,32.4231586
+"Poland, Europe",52.215933,19.134422
+"Armenia, Asia",40.7696272,44.6736646
+"Liechtenstein, Europe",47.1416307,9.5531527
+"Southampton, United Kingdom, Europe",50.9025349,-1.404189
+"Bromley, United Kingdom, Europe",51.4028046,0.0148142
+"Cardiff, United Kingdom, Europe",51.4816546,-3.1791934
+"Bern, Switzerland, Europe",46.9484742,7.4521749
+"Gibraltar, Gibraltar, Europe",36.1113418,-5.3482947
+"Lodzkie, Poland, Europe",51.4721678,19.3460637
+"Dundee City, United Kingdom, Europe",56.473846,-2.966419
+"Reading, United Kingdom, Europe",51.4564242,-0.9700664
+"Wokingham, United Kingdom, Europe",51.4570846,-0.886537
+"Neuchatel, Switzerland, Europe",46.9895828,6.9292641
+"Oslo, Norway, Europe",59.9133301,10.7389701
+"Monte-Carlo, Monaco, Europe",43.7402961,7.426559
+"Sankt Gallen, Switzerland, Europe",47.425618,9.3762397
+"Madeira, Portugal, Europe",32.7517501,16.9817487
+"Luxembourg, Belgium, Europe",49.8158683,6.1296751
+"Orebro Lan, Sweden, Europe",59.2747287,15.2151181
+"Norway, Europe",61.1529386,8.7876653
+"Bayern, Germany, Europe",48.9467562,11.4038717
+"Bratislava, Slovakia (Slovak Republic), Europe",48.1516988,17.1093063
+"Niedersachsen, Germany, Europe",52.8398531,9.075962
+"Hertford, United Kingdom, Europe",51.7957409,0.078521
+"Salzburg, Austria, Europe",47.7981346,13.0464806
+"Isle of Man, Europe",54.1936805,-4.5591148
+"Cornwall, United Kingdom, Europe",50.4433489,-4.6246566
+"Guernsey, Europe",49.4622913,-2.5812023
+"Ticino, Switzerland, Europe",46.3351913,8.7525902
+"Leicester, United Kingdom, Europe",52.6362,-1.1331969
+"Malta, Malta, Europe",35.8885993,14.4476911
+"Coventry, United Kingdom, Europe",52.4081812,1.510477
+"Cork, Ireland, Europe",51.8985136,8.4726423
+"Antwerpen, Belgium, Europe",51.2211097,4.3997081
+"Derby, United Kingdom, Europe",52.9142235,-1.4719885
+"Monaco, Europe",43.7402961,7.426559
+"Plymouth, United Kingdom, Europe",50.3714122,-4.1424451
+"Minsk, Belarus, Europe",53.9024716,27.5618225
+"Barnet, United Kingdom, Europe",51.65309,-0.2002261
+"Westminster, United Kingdom, Europe",51.5004439,-0.1265398
+"Astrakhan', Russian Federation, Europe",46.3498308,48.0326203
+"Buckinghamshire, United Kingdom, Europe",51.840894,-0.8998074
+"Birmingham, United Kingdom, Europe",52.4796992,-1.9026911
+"Oulu, Finland, Europe",65.0117869,25.4701983
+"Taiwan, Asia",23.9739374,120.9820179
+"Fribourg, Switzerland, Europe",46.6789116,7.1027113

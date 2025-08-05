@@ -1,81 +1,81 @@
 2025 Rank,2024 Rank,Institution Name,City,Location,Location Full,Size,Academic Reputation,Employer Reputation,Faculty Student,Citations per Faculty,International Faculty,International Students,International Research Network,Employment Outcomes,Sustainability,QS Overall Score,2025 Rank Numeric,OpenCage Request,Latitude,Longitude
-2,6,Imperial College London,London,UK,United Kingdom,L,98.5,99.5,98.2,93.9,100.0,99.6,97.4,93.4,99.7,98.5,2.0,"London, United Kingdom",51.5074456,-0.1277653
-3,3,University of Oxford,Oxford,UK,United Kingdom,L,100.0,100.0,100.0,84.8,98.1,97.7,100.0,100.0,85.0,96.9,3.0,"Oxford, United Kingdom",51.7520131,-1.2578499
-5,2,University of Cambridge,Cambridge,UK,United Kingdom,L,100.0,100.0,100.0,84.6,100.0,94.8,99.3,100.0,84.8,96.7,5.0,"Cambridge, United Kingdom",52.2055314,0.1186637
-7,7,ETH Zurich - Swiss Federal Institute of Technology,Zurich,CH,Switzerland,L,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9,7.0,"Zurich, Switzerland",47.3744489,8.5410422
-9,9,UCL,London,UK,United Kingdom,XL,99.5,98.3,95.9,72.2,99.0,100.0,99.9,70.3,74.8,91.6,9.0,"London, United Kingdom",51.5074456,-0.1277653
-24,24,Université PSL,Paris,FR,France,L,74.4,97.6,98.1,87.6,62.3,65.0,99.8,97.1,73.4,84.7,24.0,"Paris, France",48.8534951,2.3483915
-26,36,EPFL,Lausanne,CH,Switzerland,M,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5,26.0,"Lausanne, Switzerland",46.5218269,6.6327025
-27,22,The University of Edinburgh,Edinburgh,UK,United Kingdom,XL,98.3,97.2,65.5,47.7,98.7,99.8,99.5,55.9,99.0,83.3,27.0,"Edinburgh, United Kingdom",55.9533456,-3.1883749
-28,37,Technical University of Munich,Munich,DE,Germany,XL,83.0,98.6,76.8,75.9,80.4,98.6,95.6,34.5,93.1,83.2,28.0,"Munich, Germany",48.1371079,11.5753822
-34,32,The University of Manchester,Manchester,UK,United Kingdom,XL,95.6,98.1,51.3,45.1,93.1,99.2,99.2,87.6,99.8,82,34.0,"Manchester, United Kingdom",53.4794892,-2.2451148
-40,40,King's College London,London,UK,United Kingdom,XL,90.3,85.7,64.3,53.6,99.1,99.5,98.6,59.8,96.2,80.2,40.0,"London, United Kingdom",51.5074456,-0.1277653
-46,38,Institut Polytechnique de Paris,Paris,FR,France,M,44.7,99.6,95.9,86.1,99.1,98.0,89.6,97.7,54.8,77.5,46.0,"Paris, France",48.8534951,2.3483915
-49,47,Delft University of Technology,Delft,NL,Netherlands,L,74.4,83.0,39.4,79.7,100.0,91.4,93.7,54.8,99.1,77,49.0,"Delft, Netherlands",52.0114017,4.35839
-50,45,The London School of Economics and Political Science (LSE),London,UK,United Kingdom,L,67.2,97.0,35.1,69.4,100.0,100.0,81.2,99.6,91.3,76,50.0,"London, United Kingdom",51.5074456,-0.1277653
-54,55,University of Bristol,,UK,United Kingdom,L,75.8,82.5,36.7,75.9,87.5,89.8,94.6,51.2,98.9,75.4,54.0,,,
-55,53,University of Amsterdam,Amsterdam,NL,Netherlands,XL,83.8,52.1,21.4,92.2,96.0,87.5,96.3,79.8,38.2,73.7,55.0,"Amsterdam, Netherlands",52.3730796,4.8924534
-59,54,Ludwig-Maximilians-Universität München,Munich,DE,Germany,XL,92.2,86.6,38.5,50.0,75.1,37.6,95.5,66.9,62.2,71.6,59.0,"Munich, Germany",48.1371079,11.5753822
-63,61,KU Leuven,Leuven,BE,Belgium,XL,84.6,49.6,7.1,91.0,93.8,47.7,99.5,75.3,51.2,70.3,63.0,"Leuven, Belgium",50.879202,4.7011675
-63,59,Sorbonne University,Paris,FR,France,XL,87.2,52.0,43.0,72.3,33.8,46.7,99.8,79.7,87.6,70.3,63.0,"Paris, France",48.8534951,2.3483915
-69,67,The University of Warwick,Warwick,UK,United Kingdom,L,72.2,86.4,35.5,37.7,98.1,99.1,94.2,65.7,89.7,68.2,69.0,"Warwick, United Kingdom",52.2814519,-1.5815742
-73,71,Université Paris-Saclay,Paris,FR,France,XL,60.7,99.1,99.8,35.0,35.7,58.6,98.6,70.8,72.6,67,73.0,"Paris, France",48.8534951,2.3483915
-74,73,KTH Royal Institute of Technology ,Stockholm,SE,Sweden,L,45.2,55.6,62.3,86.1,92.0,65.9,91.1,62.4,94.8,65.7,74.0,"Stockholm, Sweden",59.3251172,18.0710935
-75,85,Lund University,Lund,SE,Sweden,L,68.3,52.5,55.5,44.6,97.4,73.4,96.7,86.5,99.6,65.6,75.0,"Lund, Sweden",55.7029296,13.1929449
-78,76,University of Glasgow,Glasgow,UK,United Kingdom,XL,77.4,67.7,38.0,32.5,95.7,99.4,97.6,33.5,98.5,65,78.0,"Glasgow, United Kingdom",55.861155,-4.2501687
-80,84,University of Birmingham,Birmingham,UK,United Kingdom,XL,68.9,69.0,39.0,40.5,92.6,89.3,97.5,44.5,96.8,64.1,80.0,"Birmingham, United Kingdom",52.4796992,-1.9026911
-80,81,University of Southampton,Southampton,UK,United Kingdom,L,50.1,44.3,40.7,83.4,92.5,98.0,97.1,49.2,96.9,64.1,80.0,"Southampton, United Kingdom",50.9025349,-1.404189
-82,75,University of Leeds,Leeds,UK,United Kingdom,XL,70.5,75.9,36.4,39.8,82.5,88.5,98.8,50.9,71.8,63.8,82.0,"Leeds, United Kingdom",53.7974185,-1.5437941
-84,87,Ruprecht-Karls-Universität Heidelberg,Heidelberg,DE,Germany,L,76.9,59.4,99.4,32.7,54.2,53.6,94.5,25.2,77.6,63.7,84.0,"Heidelberg, Germany",49.4093582,8.694724
-87,81,"Trinity College Dublin, The University of Dublin",,IE,Ireland,L,69.5,47.4,20.2,58.4,99.3,88.0,91.3,88.6,57.7,62.9,87.0,,,
-89,78,Durham University,Durham,UK,United Kingdom,L,59.6,83.9,26.3,40.9,97.3,84.9,89.7,39.4,98.6,61.7,89.0,"Durham, United Kingdom",54.666667,-1.75
-97,98,Freie Universitaet Berlin,Berlin,DE,Germany,L,80.3,56.9,5.0,71.7,62.4,43.7,93.1,32.8,31.3,60.6,97.0,"Berlin, Germany",52.510885,13.3989367
-99,106,RWTH Aachen University,Aachen,DE,Germany,XL,46.6,93.7,6.3,71.9,48.6,85.5,86.1,33.4,84.8,59.9,99.0,"Aachen, Germany",50.776351,6.083862
-100,107,University of Copenhagen,Copenhagen,DK,Denmark,XL,74.0,31.6,99.8,23.1,84.9,15.6,98.2,90.8,73.2,59.6,100.0,"Copenhagen, Denmark",55.6867243,12.5700724
-102,119,"KIT, Karlsruhe Institute of Technology",Karlsruhe,DE,Germany,L,44.9,80.9,39.4,68.4,70.5,42.9,86.4,50.8,75.3,59.4,102.0,"Karlsruhe, Germany",49.0068705,8.4034195
-103,105,Uppsala University,,SE,Sweden,L,61.4,33.7,52.0,42.3,99.4,81.1,96.7,68.4,99.2,59.3,103.0,,,
-104,95,University of St Andrews,St Andrews,UK,United Kingdom,M,46.5,63.2,64.7,49.2,98.4,100.0,83.8,18.5,91.1,59.2,104.0,"St Andrews, United Kingdom",56.3403902,-2.7955844
-105,104,The University of Sheffield,Sheffield,UK,United Kingdom,L,58.3,48.7,52.5,43.9,83.3,96.8,95.8,33.8,97.7,59.1,105.0,"Sheffield, United Kingdom",53.3806626,-1.4702278
-105,107,Utrecht University,Utrecht,NL,Netherlands,XL,66.5,38.8,31.0,79.5,55.7,19.4,97.3,54.7,61.9,59.1,105.0,"Utrecht, Netherlands",52.0907006,5.1215634
-108,100,University of Nottingham,Nottingham,UK,United Kingdom,XL,61.1,65.8,32.8,37.6,89.4,70.5,98.0,38.0,97.0,58.5,108.0,"Nottingham, United Kingdom",52.9534193,-1.1496461
-109,121,Technical University of Denmark,Lyngby,DK,Denmark,M,33.2,22.1,99.1,84.4,100.0,87.7,88.1,43.6,47.9,58.3,109.0,"Lyngby, Denmark",55.7718649,12.5051413
-109,91,University of Zurich,Zurich,CH,Switzerland,L,59.9,26.4,92.2,40.1,100.0,42.8,94.3,88.6,58.7,58.3,109.0,"Zurich, Switzerland",47.3744489,8.5410422
-111,123,Politecnico di Milano,Milano,IT,Italy,XL,70.8,77.0,5.8,40.2,67.4,56.8,88.1,52.9,72.6,58.2,111.0,"Milano, Italy",45.4641943,9.1896346
-113,109,Aalto University,Helsinki,FI,Finland,L,45.7,40.6,33.2,73.6,95.2,40.1,78.2,95.1,94.7,57.9,113.0,"Helsinki, Finland",60.1674881,24.9427473
-117,115,University of Helsinki,Helsinki,FI,Finland,L,62.3,29.1,59.4,49.6,73.4,5.7,96.9,90.5,94.5,56.8,117.0,"Helsinki, Finland",60.1674881,24.9427473
-119,117,University of Oslo,Oslo,NO,Norway,L,55.6,16.0,73.8,55.7,91.6,31.7,97.3,80.9,72.1,56.1,119.0,"Oslo, Norway",59.9133301,10.7389701
-120,145,Queen Mary University of London,London,UK,United Kingdom,L,48.3,36.9,30.4,62.8,99.5,99.2,92.5,21.4,95.6,55.8,120.0,"London, United Kingdom",51.5074456,-0.1277653
-126,120,Humboldt-Universität zu Berlin,Berlin,DE,Germany,XL,89.2,69.9,7.4,27.0,69.1,35.1,93.1,19.0,19.9,55,126.0,"Berlin, Germany",52.510885,13.3989367
-126,171,University College Dublin,,IE,Ireland,L,51.4,43.5,16.6,46.4,99.1,74.8,87.2,89.8,95.6,55,126.0,,,
-128,118,Stockholm University,Stockholm,SE,Sweden,L,52.5,21.0,26.7,64.5,80.7,89.8,95.7,86.6,58.7,54.8,128.0,"Stockholm, Sweden",59.3251172,18.0710935
-129,110,Newcastle University,,UK,United Kingdom,L,50.0,59.3,39.2,38.7,89.5,68.6,97.1,31.3,97.1,54.5,129.0,,,
-131,124,University of Basel,,CH,Switzerland,M,26.6,13.5,61.4,94.5,100.0,85.8,89.4,69.9,44.6,54.3,131.0,,,
-132,134,Sapienza University of Rome,Rome,IT,Italy,XL,80.7,48.5,5.0,45.3,3.1,8.0,97.1,88.0,72.3,54.2,132.0,"Rome, Italy",41.8933203,12.4829321
-133,154,Alma Mater Studiorum - University of Bologna,Bologna,IT,Italy,XL,80.8,47.8,3.7,46.6,14.5,12.3,96.0,53.8,88.4,54.1,133.0,"Bologna, Italy",44.4938203,11.3426327
-136,124,Eindhoven University of Technology,Eindhoven,NL,Netherlands,M,28.7,72.1,35.7,79.3,100.0,82.7,70.8,24.2,29.8,54,136.0,"Eindhoven, Netherlands",51.4392648,5.478633
-137,130,University of Vienna,Vienna,AT,Austria,XL,70.9,40.4,23.2,13.0,100.0,92.0,96.0,89.7,60.9,53.9,137.0,"Vienna, Austria",48.2083537,16.3725042
-139,129,Chalmers University of Technology,Chalmers,SE,Sweden,M,26.3,50.4,50.5,77.4,100.0,63.1,77.0,31.7,87.0,53.7,139.0,"Chalmers, Sweden",57.6897462,11.9765259
-141,122,Lancaster University,Lancaster,UK,United Kingdom,L,38.9,36.7,27.7,69.6,93.3,92.3,89.7,28.8,96.2,53.6,141.0,"Lancaster, United Kingdom",54.0484068,-2.7990345
-141,126,Leiden University,Leiden,NL,Netherlands,XL,68.4,32.9,21.3,54.5,85.0,51.7,95.2,48.8,25.5,53.6,141.0,"Leiden, Netherlands",52.1594747,4.4908843
-144,143,Aarhus University,Aarhus,DK,Denmark,L,54.7,27.6,30.8,63.8,89.8,11.9,96.1,69.5,76.4,53.3,144.0,"Aarhus, Denmark",56.1496278,10.2134046
-147,154,Technische Universität Berlin (TU Berlin),Berlin,DE,Germany,L,55.3,74.3,58.0,22.1,63.2,74.8,86.1,37.7,35.4,52.5,147.0,"Berlin, Germany",52.510885,13.3989367
-150,148,University of Bath,Bath,UK,United Kingdom,L,35.8,67.9,18.3,52.0,94.3,80.0,84.2,35.2,90.4,52.1,150.0,"Bath, United Kingdom",51.3813864,-2.3596963
-155,128,University of Geneva,Geneva,CH,Switzerland,L,45.5,17.2,40.4,62.4,100.0,97.6,94.2,49.5,42.3,51.6,155.0,"Geneva, Switzerland",46.2017559,6.1466014
-155,151,Wageningen University & Research,Wageningen,NL,Netherlands,L,42.1,23.8,98.6,41.3,59.4,81.2,97.9,21.1,92.3,51.6,155.0,"Wageningen, Netherlands",51.9663016,5.6662814
-158,176,Erasmus University Rotterdam ,Rotterdam,NL,Netherlands,L,37.0,58.2,18.1,63.3,76.0,70.0,85.4,89.3,28.7,51.5,158.0,"Rotterdam, Netherlands",51.9244424,4.47775
-159,139,University of Groningen,Groningen,NL,Netherlands,XL,52.3,34.4,49.3,41.2,93.2,83.5,94.1,40.0,40.1,51.3,159.0,"Groningen, Netherlands",53.2190652,6.5680077
-161,126,University of Bern,Bern,CH,Switzerland,M,29.7,16.1,45.9,99.3,100.0,38.0,93.8,30.7,52.1,51.2,161.0,"Bern, Switzerland",46.9484742,7.4521749
-164,171,Complutense University of Madrid,Madrid,ES,Spain,XL,68.1,68.1,28.7,7.9,10.5,34.3,91.8,96.3,88.9,50.9,164.0,"Madrid, Spain",40.4167047,-3.7035825
-165,164,Universitat de Barcelona,Barcelona,ES,Spain,XL,73.7,30.3,12.4,38.1,23.1,26.3,96.8,71.5,92.2,50.7,165.0,"Barcelona, Spain",41.3825802,2.177073
-165,176,University of Liverpool,Liverpool,UK,United Kingdom,L,46.1,39.4,37.8,36.6,88.3,85.4,97.2,36.3,95.6,50.7,165.0,"Liverpool, United Kingdom",53.4071991,-2.99168
-169,159,Ghent University,Ghent,BE,Belgium,XL,53.2,24.8,78.5,21.5,79.7,21.4,99.5,72.9,98.3,50.1,169.0,"Ghent, Belgium",51.0538286,3.7250121
-169,153,The University of Exeter,Exeter,UK,United Kingdom,L,42.9,45.0,30.2,42.5,91.0,72.2,95.1,30.1,97.1,50.1,169.0,"Exeter, United Kingdom",50.7256138,-3.5269209
-172,169,University of Reading,Reading,UK,United Kingdom,L,32.2,41.7,13.1,65.7,86.2,78.6,91.7,47.8,94.0,49.9,172.0,"Reading, United Kingdom",51.4564242,-0.9700664
-175,149,Universitat Autònoma de Barcelona,Barcelona,ES,Spain,XL,64.0,35.8,11.5,59.5,18.5,16.5,93.1,24.0,86.7,49.2,175.0,"Barcelona, Spain",41.3825802,2.177073
-184,167,University of York,York,UK,United Kingdom,L,42.9,30.1,43.0,40.1,87.8,75.6,92.5,23.5,97.4,48.2,184.0,"York, United Kingdom",53.9656578,-1.0743052
-186,154,Cardiff University,Cardiff,UK,United Kingdom,L,46.8,43.2,36.1,30.0,82.8,67.7,92.3,18.9,96.0,47.6,186.0,"Cardiff, United Kingdom",51.4816546,-3.1791934
-187,184,École Normale Supérieure de Lyon,Lyon,FR,France,S,29.8,16.3,97.0,93.5,59.0,11.7,70.3,14.0,6.6,47.5,187.0,"Lyon, France",45.7578137,4.8320114
-190,184,Technische Universität Wien,Vienna,AT,Austria,M,33.9,50.4,12.5,73.8,85.5,90.4,71.6,19.1,11.3,47.2,190.0,"Vienna, Austria",48.2083537,16.3725042
-191,205,Universität Hamburg,Hamburg,DE,Germany,L,50.7,35.7,16.5,54.7,40.2,20.4,93.4,42.8,90.6,47.1,191.0,"Hamburg, Germany",53.550341,10.000654
-194,187,University of Gothenburg,Gothenburg,SE,Sweden,L,35.4,18.3,60.9,33.6,90.0,78.2,94.2,63.1,92.8,46.7,194.0,"Gothenburg, Sweden",57.7072326,11.9670171
-198,199,Universidad Autónoma de Madrid,Madrid,ES,Spain,XL,61.0,64.3,29.1,21.0,7.7,10.4,92.0,43.1,79.6,46.3,198.0,"Madrid, Spain",40.4167047,-3.7035825
+2,6,Imperial College London,London,UK,United Kingdom,L,98.5,99.5,98.2,93.9,100,99.6,97.4,93.4,99.7,98.5,2,"London, United Kingdom",51.5074456,-0.1277653
+3,3,University of Oxford,Oxford,UK,United Kingdom,L,100,100,100,84.8,98.1,97.7,100,100,85,96.9,3,"Oxford, United Kingdom",51.7520131,-1.2578499
+5,2,University of Cambridge,Cambridge,UK,United Kingdom,L,100,100,100,84.6,100,94.8,99.3,100,84.8,96.7,5,"Cambridge, United Kingdom",52.2055314,0.1186637
+7,7,ETH Zurich - Swiss Federal Institute of Technology,Zurich,CH,Switzerland,L,98.8,87.2,65.9,97.9,100,98.6,95.7,90.5,98.8,93.9,7,"Zurich, Switzerland",47.3744489,8.5410422
+9,9,UCL,London,UK,United Kingdom,XL,99.5,98.3,95.9,72.2,99,100,99.9,70.3,74.8,91.6,9,"London, United Kingdom",51.5074456,-0.1277653
+24,24,Université PSL,Paris,FR,France,L,74.4,97.6,98.1,87.6,62.3,65,99.8,97.1,73.4,84.7,24,"Paris, France",48.8534951,2.3483915
+26,36,EPFL,Lausanne,CH,Switzerland,M,84.2,67.2,91.2,93.6,100,100,81.7,27.2,86.7,83.5,26,"Lausanne, Switzerland",46.5218269,6.6327025
+27,22,The University of Edinburgh,Edinburgh,UK,United Kingdom,XL,98.3,97.2,65.5,47.7,98.7,99.8,99.5,55.9,99,83.3,27,"Edinburgh, United Kingdom",55.9533456,-3.1883749
+28,37,Technical University of Munich,Munich,DE,Germany,XL,83,98.6,76.8,75.9,80.4,98.6,95.6,34.5,93.1,83.2,28,"Munich, Germany",48.1371079,11.5753822
+34,32,The University of Manchester,Manchester,UK,United Kingdom,XL,95.6,98.1,51.3,45.1,93.1,99.2,99.2,87.6,99.8,82,34,"Manchester, United Kingdom",53.4794892,-2.2451148
+40,40,King's College London,London,UK,United Kingdom,XL,90.3,85.7,64.3,53.6,99.1,99.5,98.6,59.8,96.2,80.2,40,"London, United Kingdom",51.5074456,-0.1277653
+46,38,Institut Polytechnique de Paris,Paris,FR,France,M,44.7,99.6,95.9,86.1,99.1,98,89.6,97.7,54.8,77.5,46,"Paris, France",48.8534951,2.3483915
+49,47,Delft University of Technology,Delft,NL,Netherlands,L,74.4,83,39.4,79.7,100,91.4,93.7,54.8,99.1,77,49,"Delft, Netherlands",52.0114017,4.35839
+50,45,The London School of Economics and Political Science (LSE),London,UK,United Kingdom,L,67.2,97,35.1,69.4,100,100,81.2,99.6,91.3,76,50,"London, United Kingdom",51.5074456,-0.1277653
+54,55,University of Bristol,,UK,United Kingdom,L,75.8,82.5,36.7,75.9,87.5,89.8,94.6,51.2,98.9,75.4,54,"Bristol, United Kingdom",51.4545,2.5879
+55,53,University of Amsterdam,Amsterdam,NL,Netherlands,XL,83.8,52.1,21.4,92.2,96,87.5,96.3,79.8,38.2,73.7,55,"Amsterdam, Netherlands",52.3730796,4.8924534
+59,54,Ludwig-Maximilians-Universität München,Munich,DE,Germany,XL,92.2,86.6,38.5,50,75.1,37.6,95.5,66.9,62.2,71.6,59,"Munich, Germany",48.1371079,11.5753822
+63,61,KU Leuven,Leuven,BE,Belgium,XL,84.6,49.6,7.1,91,93.8,47.7,99.5,75.3,51.2,70.3,63,"Leuven, Belgium",50.879202,4.7011675
+63,59,Sorbonne University,Paris,FR,France,XL,87.2,52,43,72.3,33.8,46.7,99.8,79.7,87.6,70.3,63,"Paris, France",48.8534951,2.3483915
+69,67,The University of Warwick,Warwick,UK,United Kingdom,L,72.2,86.4,35.5,37.7,98.1,99.1,94.2,65.7,89.7,68.2,69,"Warwick, United Kingdom",52.2814519,-1.5815742
+73,71,Université Paris-Saclay,Paris,FR,France,XL,60.7,99.1,99.8,35,35.7,58.6,98.6,70.8,72.6,67,73,"Paris, France",48.8534951,2.3483915
+74,73,KTH Royal Institute of Technology ,Stockholm,SE,Sweden,L,45.2,55.6,62.3,86.1,92,65.9,91.1,62.4,94.8,65.7,74,"Stockholm, Sweden",59.3251172,18.0710935
+75,85,Lund University,Lund,SE,Sweden,L,68.3,52.5,55.5,44.6,97.4,73.4,96.7,86.5,99.6,65.6,75,"Lund, Sweden",55.7029296,13.1929449
+78,76,University of Glasgow,Glasgow,UK,United Kingdom,XL,77.4,67.7,38,32.5,95.7,99.4,97.6,33.5,98.5,65,78,"Glasgow, United Kingdom",55.861155,-4.2501687
+80,84,University of Birmingham,Birmingham,UK,United Kingdom,XL,68.9,69,39,40.5,92.6,89.3,97.5,44.5,96.8,64.1,80,"Birmingham, United Kingdom",52.4796992,-1.9026911
+80,81,University of Southampton,Southampton,UK,United Kingdom,L,50.1,44.3,40.7,83.4,92.5,98,97.1,49.2,96.9,64.1,80,"Southampton, United Kingdom",50.9025349,-1.404189
+82,75,University of Leeds,Leeds,UK,United Kingdom,XL,70.5,75.9,36.4,39.8,82.5,88.5,98.8,50.9,71.8,63.8,82,"Leeds, United Kingdom",53.7974185,-1.5437941
+84,87,Ruprecht-Karls-Universität Heidelberg,Heidelberg,DE,Germany,L,76.9,59.4,99.4,32.7,54.2,53.6,94.5,25.2,77.6,63.7,84,"Heidelberg, Germany",49.4093582,8.694724
+87,81,"Trinity College Dublin, The University of Dublin",,IE,Ireland,L,69.5,47.4,20.2,58.4,99.3,88,91.3,88.6,57.7,62.9,87,,53.3498,6.2603
+89,78,Durham University,Durham,UK,United Kingdom,L,59.6,83.9,26.3,40.9,97.3,84.9,89.7,39.4,98.6,61.7,89,"Durham, United Kingdom",54.666667,-1.75
+97,98,Freie Universitaet Berlin,Berlin,DE,Germany,L,80.3,56.9,5,71.7,62.4,43.7,93.1,32.8,31.3,60.6,97,"Berlin, Germany",52.510885,13.3989367
+99,106,RWTH Aachen University,Aachen,DE,Germany,XL,46.6,93.7,6.3,71.9,48.6,85.5,86.1,33.4,84.8,59.9,99,"Aachen, Germany",50.776351,6.083862
+100,107,University of Copenhagen,Copenhagen,DK,Denmark,XL,74,31.6,99.8,23.1,84.9,15.6,98.2,90.8,73.2,59.6,100,"Copenhagen, Denmark",55.6867243,12.5700724
+102,119,"KIT, Karlsruhe Institute of Technology",Karlsruhe,DE,Germany,L,44.9,80.9,39.4,68.4,70.5,42.9,86.4,50.8,75.3,59.4,102,"Karlsruhe, Germany",49.0068705,8.4034195
+103,105,Uppsala University,,SE,Sweden,L,61.4,33.7,52,42.3,99.4,81.1,96.7,68.4,99.2,59.3,103,,59.85806,17.6447
+104,95,University of St Andrews,St Andrews,UK,United Kingdom,M,46.5,63.2,64.7,49.2,98.4,100,83.8,18.5,91.1,59.2,104,"St Andrews, United Kingdom",56.3403902,-2.7955844
+105,104,The University of Sheffield,Sheffield,UK,United Kingdom,L,58.3,48.7,52.5,43.9,83.3,96.8,95.8,33.8,97.7,59.1,105,"Sheffield, United Kingdom",53.3806626,-1.4702278
+105,107,Utrecht University,Utrecht,NL,Netherlands,XL,66.5,38.8,31,79.5,55.7,19.4,97.3,54.7,61.9,59.1,105,"Utrecht, Netherlands",52.0907006,5.1215634
+108,100,University of Nottingham,Nottingham,UK,United Kingdom,XL,61.1,65.8,32.8,37.6,89.4,70.5,98,38,97,58.5,108,"Nottingham, United Kingdom",52.9534193,-1.1496461
+109,121,Technical University of Denmark,Lyngby,DK,Denmark,M,33.2,22.1,99.1,84.4,100,87.7,88.1,43.6,47.9,58.3,109,"Lyngby, Denmark",55.7718649,12.5051413
+109,91,University of Zurich,Zurich,CH,Switzerland,L,59.9,26.4,92.2,40.1,100,42.8,94.3,88.6,58.7,58.3,109,"Zurich, Switzerland",47.3744489,8.5410422
+111,123,Politecnico di Milano,Milano,IT,Italy,XL,70.8,77,5.8,40.2,67.4,56.8,88.1,52.9,72.6,58.2,111,"Milano, Italy",45.4641943,9.1896346
+113,109,Aalto University,Helsinki,FI,Finland,L,45.7,40.6,33.2,73.6,95.2,40.1,78.2,95.1,94.7,57.9,113,"Helsinki, Finland",60.1674881,24.9427473
+117,115,University of Helsinki,Helsinki,FI,Finland,L,62.3,29.1,59.4,49.6,73.4,5.7,96.9,90.5,94.5,56.8,117,"Helsinki, Finland",60.1674881,24.9427473
+119,117,University of Oslo,Oslo,NO,Norway,L,55.6,16,73.8,55.7,91.6,31.7,97.3,80.9,72.1,56.1,119,"Oslo, Norway",59.9133301,10.7389701
+120,145,Queen Mary University of London,London,UK,United Kingdom,L,48.3,36.9,30.4,62.8,99.5,99.2,92.5,21.4,95.6,55.8,120,"London, United Kingdom",51.5074456,-0.1277653
+126,120,Humboldt-Universität zu Berlin,Berlin,DE,Germany,XL,89.2,69.9,7.4,27,69.1,35.1,93.1,19,19.9,55,126,"Berlin, Germany",52.510885,13.3989367
+126,171,University College Dublin,,IE,Ireland,L,51.4,43.5,16.6,46.4,99.1,74.8,87.2,89.8,95.6,55,126,,53.3498,6.2603
+128,118,Stockholm University,Stockholm,SE,Sweden,L,52.5,21,26.7,64.5,80.7,89.8,95.7,86.6,58.7,54.8,128,"Stockholm, Sweden",59.3251172,18.0710935
+129,110,Newcastle University,,UK,United Kingdom,L,50,59.3,39.2,38.7,89.5,68.6,97.1,31.3,97.1,54.5,129,,54.966667,-1.6
+131,124,University of Basel,,CH,Switzerland,M,26.6,13.5,61.4,94.5,100,85.8,89.4,69.9,44.6,54.3,131,,47.559601,7.588576
+132,134,Sapienza University of Rome,Rome,IT,Italy,XL,80.7,48.5,5,45.3,3.1,8,97.1,88,72.3,54.2,132,"Rome, Italy",41.8933203,12.4829321
+133,154,Alma Mater Studiorum - University of Bologna,Bologna,IT,Italy,XL,80.8,47.8,3.7,46.6,14.5,12.3,96,53.8,88.4,54.1,133,"Bologna, Italy",44.4938203,11.3426327
+136,124,Eindhoven University of Technology,Eindhoven,NL,Netherlands,M,28.7,72.1,35.7,79.3,100,82.7,70.8,24.2,29.8,54,136,"Eindhoven, Netherlands",51.4392648,5.478633
+137,130,University of Vienna,Vienna,AT,Austria,XL,70.9,40.4,23.2,13,100,92,96,89.7,60.9,53.9,137,"Vienna, Austria",48.2083537,16.3725042
+139,129,Chalmers University of Technology,Chalmers,SE,Sweden,M,26.3,50.4,50.5,77.4,100,63.1,77,31.7,87,53.7,139,"Chalmers, Sweden",57.6897462,11.9765259
+141,122,Lancaster University,Lancaster,UK,United Kingdom,L,38.9,36.7,27.7,69.6,93.3,92.3,89.7,28.8,96.2,53.6,141,"Lancaster, United Kingdom",54.0484068,-2.7990345
+141,126,Leiden University,Leiden,NL,Netherlands,XL,68.4,32.9,21.3,54.5,85,51.7,95.2,48.8,25.5,53.6,141,"Leiden, Netherlands",52.1594747,4.4908843
+144,143,Aarhus University,Aarhus,DK,Denmark,L,54.7,27.6,30.8,63.8,89.8,11.9,96.1,69.5,76.4,53.3,144,"Aarhus, Denmark",56.1496278,10.2134046
+147,154,Technische Universität Berlin (TU Berlin),Berlin,DE,Germany,L,55.3,74.3,58,22.1,63.2,74.8,86.1,37.7,35.4,52.5,147,"Berlin, Germany",52.510885,13.3989367
+150,148,University of Bath,Bath,UK,United Kingdom,L,35.8,67.9,18.3,52,94.3,80,84.2,35.2,90.4,52.1,150,"Bath, United Kingdom",51.3813864,-2.3596963
+155,128,University of Geneva,Geneva,CH,Switzerland,L,45.5,17.2,40.4,62.4,100,97.6,94.2,49.5,42.3,51.6,155,"Geneva, Switzerland",46.2017559,6.1466014
+155,151,Wageningen University & Research,Wageningen,NL,Netherlands,L,42.1,23.8,98.6,41.3,59.4,81.2,97.9,21.1,92.3,51.6,155,"Wageningen, Netherlands",51.9663016,5.6662814
+158,176,Erasmus University Rotterdam ,Rotterdam,NL,Netherlands,L,37,58.2,18.1,63.3,76,70,85.4,89.3,28.7,51.5,158,"Rotterdam, Netherlands",51.9244424,4.47775
+159,139,University of Groningen,Groningen,NL,Netherlands,XL,52.3,34.4,49.3,41.2,93.2,83.5,94.1,40,40.1,51.3,159,"Groningen, Netherlands",53.2190652,6.5680077
+161,126,University of Bern,Bern,CH,Switzerland,M,29.7,16.1,45.9,99.3,100,38,93.8,30.7,52.1,51.2,161,"Bern, Switzerland",46.9484742,7.4521749
+164,171,Complutense University of Madrid,Madrid,ES,Spain,XL,68.1,68.1,28.7,7.9,10.5,34.3,91.8,96.3,88.9,50.9,164,"Madrid, Spain",40.4167047,-3.7035825
+165,164,Universitat de Barcelona,Barcelona,ES,Spain,XL,73.7,30.3,12.4,38.1,23.1,26.3,96.8,71.5,92.2,50.7,165,"Barcelona, Spain",41.3825802,2.177073
+165,176,University of Liverpool,Liverpool,UK,United Kingdom,L,46.1,39.4,37.8,36.6,88.3,85.4,97.2,36.3,95.6,50.7,165,"Liverpool, United Kingdom",53.4071991,-2.99168
+169,159,Ghent University,Ghent,BE,Belgium,XL,53.2,24.8,78.5,21.5,79.7,21.4,99.5,72.9,98.3,50.1,169,"Ghent, Belgium",51.0538286,3.7250121
+169,153,The University of Exeter,Exeter,UK,United Kingdom,L,42.9,45,30.2,42.5,91,72.2,95.1,30.1,97.1,50.1,169,"Exeter, United Kingdom",50.7256138,-3.5269209
+172,169,University of Reading,Reading,UK,United Kingdom,L,32.2,41.7,13.1,65.7,86.2,78.6,91.7,47.8,94,49.9,172,"Reading, United Kingdom",51.4564242,-0.9700664
+175,149,Universitat Autònoma de Barcelona,Barcelona,ES,Spain,XL,64,35.8,11.5,59.5,18.5,16.5,93.1,24,86.7,49.2,175,"Barcelona, Spain",41.3825802,2.177073
+184,167,University of York,York,UK,United Kingdom,L,42.9,30.1,43,40.1,87.8,75.6,92.5,23.5,97.4,48.2,184,"York, United Kingdom",53.9656578,-1.0743052
+186,154,Cardiff University,Cardiff,UK,United Kingdom,L,46.8,43.2,36.1,30,82.8,67.7,92.3,18.9,96,47.6,186,"Cardiff, United Kingdom",51.4816546,-3.1791934
+187,184,École Normale Supérieure de Lyon,Lyon,FR,France,S,29.8,16.3,97,93.5,59,11.7,70.3,14,6.6,47.5,187,"Lyon, France",45.7578137,4.8320114
+190,184,Technische Universität Wien,Vienna,AT,Austria,M,33.9,50.4,12.5,73.8,85.5,90.4,71.6,19.1,11.3,47.2,190,"Vienna, Austria",48.2083537,16.3725042
+191,205,Universität Hamburg,Hamburg,DE,Germany,L,50.7,35.7,16.5,54.7,40.2,20.4,93.4,42.8,90.6,47.1,191,"Hamburg, Germany",53.550341,10.000654
+194,187,University of Gothenburg,Gothenburg,SE,Sweden,L,35.4,18.3,60.9,33.6,90,78.2,94.2,63.1,92.8,46.7,194,"Gothenburg, Sweden",57.7072326,11.9670171
+198,199,Universidad Autónoma de Madrid,Madrid,ES,Spain,XL,61,64.3,29.1,21,7.7,10.4,92,43.1,79.6,46.3,198,"Madrid, Spain",40.4167047,-3.7035825
