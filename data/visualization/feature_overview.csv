@@ -1,36 +1,36 @@
 Feature,n,mean,sd,min,max
-Founding Year,13806,2015.698,3.148,2007,2020
-B2B,13806,0.685,0.464,-,-
-Hub,13806,0.651,0.477,-,-
-Number of Founders,13806,2.158,1.099,1,11
-Female Founder,13806,0.234,0.423,-,-
-Grant Before Seed,13806,0.045,0.207,-,-
-Angel,13806,0.283,0.451,-,-
-Angel Round,13806,0.066,0.248,-,-
-First Seed Round Year,13806,2017.351,3.284,2007.0,2025.0
-Number of Seed Rounds,13806,1.747,0.948,1,5
-Number of Seed Investors,13806,3.131,2.875,1,37
-Pre-Seed,13806,0.294,0.456,-,-
-Follow-on Investor,13806,0.232,0.422,-,-
-Low Seed Funding,13806,0.361,0.48,-,-
-High Seed Funding,13806,0.099,0.298,-,-
-Duration Seed Stage (months),13806,12.307,18.286,0.0,117.9
-Lead Investor in Seed,13806,0.6,0.49,-,-
-All Homecountry Investors,13806,0.463,0.499,-,-
-Regional Investor,13806,0.555,0.497,-,-
-Regional Institutional Investor,13806,0.529,0.499,-,-
-No Syndication,13806,0.353,0.478,-,-
-geo_syndication,13806,0.569,0.495,-,-
-Regional Angel Investor,13806,0.16,0.367,-,-
-Accelerator Investor,13806,0.309,0.462,-,-
-Incubator Investor,13806,0.09,0.286,-,-
-Micro VC Investor,13806,0.216,0.412,-,-
-Corporate VC Investor,13806,0.088,0.284,-,-
-University Program Investor,13806,0.02,0.141,-,-
-Entrepreneurship Program Investor,13806,0.025,0.157,-,-
-Family Investment Office Investor,13806,0.051,0.22,-,-
-US Investor,13806,0.255,0.436,-,-
-Top University Nearby,13806,0.686,0.464,-,-
-Success,13806,0.288,0.453,-,-
-Post Seed Success,13806,0.198,0.398,-,-
-Exit,13806,0.126,0.332,-,-
+Founding Year,15174,2015.401,3.194,2007,2020
+B2B,15174,0.665,0.472,-,-
+Hub,15174,0.613,0.487,-,-
+Number of Founders,15174,2.133,1.007,1,11
+Female Founder,15174,0.19,0.392,-,-
+Grant Before Seed,15174,0.035,0.184,-,-
+Angel,15174,0.238,0.426,-,-
+Angel Round,15174,0.056,0.229,-,-
+First Seed Round Year,15174,2017.025,3.257,2007.0,2022.0
+Number of Seed Rounds,15174,1.598,0.874,1,5
+Number of Seed Investors,15174,2.689,2.516,1,37
+Pre-Seed,15174,0.27,0.444,-,-
+Follow-on Investor,15174,0.188,0.391,-,-
+Low Seed Funding,15174,0.441,0.497,-,-
+High Seed Funding,15174,0.069,0.254,-,-
+Duration Seed Stage (months),15174,9.171,15.835,0.0,117.9
+Lead Investor in Seed,15174,0.56,0.496,-,-
+All Homecountry Investors,15174,0.513,0.5,-,-
+Regional Investor,15174,0.531,0.499,-,-
+Regional Institutional Investor,15174,0.509,0.5,-,-
+No Syndication,15174,0.434,0.496,-,-
+geo_syndication,15174,0.497,0.5,-,-
+Regional Angel Investor,15174,0.135,0.342,-,-
+Accelerator Investor,15174,0.293,0.455,-,-
+Incubator Investor,15174,0.088,0.283,-,-
+Micro VC Investor,15174,0.197,0.398,-,-
+Corporate VC Investor,15174,0.076,0.265,-,-
+University Program Investor,15174,0.017,0.13,-,-
+Entrepreneurship Program Investor,15174,0.021,0.145,-,-
+Family Investment Office Investor,15174,0.043,0.202,-,-
+US Investor,15174,0.225,0.417,-,-
+Top University Nearby,15174,0.644,0.479,-,-
+Success,15174,0.272,0.445,-,-
+Post Seed Success,15174,0.182,0.386,-,-
+Exit,15174,0.123,0.328,-,-
