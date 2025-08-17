@@ -1,0 +1,33 @@
+Feature,n,min,max,mean,median,sd,percentage
+Founding Year,13214,2007.0,2020.0,2015.573,2016.0,3.133,201557.34
+B2B,13214,0.0,1.0,0.68,1.0,0.466,68.04
+Presence in Startup Ecosystem,13214,0.0,1.0,0.652,1.0,0.476,65.25
+Number of Founders,13214,1.0,20.0,2.162,2.0,1.113,216.23
+Has Female Founder,13214,0.0,1.0,0.239,0.0,0.426,23.88
+Has Grants Before Seed,13214,0.0,1.0,0.042,0.0,0.201,4.22
+Has Angel Round Before Seed,13214,0.0,1.0,0.066,0.0,0.248,6.58
+Year of First Seed Round,13214,2007.0,2023.0,2017.166,2017.0,3.204,201716.61
+Number of Seed Rounds,13214,1.0,5.0,1.718,1.0,0.928,171.82
+Number of Seed Investors,13214,1.0,37.0,3.035,2.0,2.779,303.53
+Has Pre-Seed Round,13214,0.0,1.0,0.286,0.0,0.452,28.58
+Multiple Investments of Investors,13214,0.0,1.0,0.223,0.0,0.416,22.26
+Has Low Seed Funding,13214,0.0,1.0,0.373,0.0,0.484,37.27
+Has High Seed Funding,13214,0.0,1.0,0.089,0.0,0.285,8.93
+Duration Seed Stage (in months),13214,0.0,117.9,11.419,0.0,17.389,1141.92
+Has Lead Investor,13214,0.0,1.0,0.589,1.0,0.492,58.9
+All Homecountry Investors,13214,0.0,1.0,0.474,0.0,0.499,47.43
+Regional Investor,13214,0.0,1.0,0.555,1.0,0.497,55.5
+Regional Venture Capital Investor,13214,0.0,1.0,0.476,0.0,0.499,47.62
+Overregional Syndication,13214,0.0,1.0,0.561,1.0,0.496,56.12
+Accelerator Investor,13214,0.0,1.0,0.306,0.0,0.461,30.6
+Incubator Investor,13214,0.0,1.0,0.088,0.0,0.284,8.82
+Micro VC Investor,13214,0.0,1.0,0.214,0.0,0.41,21.44
+Corporate VC Investor,13214,0.0,1.0,0.086,0.0,0.281,8.61
+University Program Investor,13214,0.0,1.0,0.02,0.0,0.14,2.0
+Entrepreneurship Program Investor,13214,0.0,1.0,0.024,0.0,0.153,2.4
+Family Investment Office Investor,13214,0.0,1.0,0.049,0.0,0.216,4.9
+GDP-growth in founding year of homecountry,13214,-14.83861179,24.6155699,0.989,1.653,3.341,98.94
+Top University Nearby,13214,0.0,1.0,0.687,1.0,0.464,68.68
+Success,13214,0.0,1.0,0.319,0.0,0.466,31.92
+Post Seed Success,13214,0.0,1.0,0.236,0.0,0.425,23.6
+Exit,13214,0.0,1.0,0.131,0.0,0.338,13.12
