@@ -1,34 +1,33 @@
 Feature,n,min,max,mean,median,sd,percentage
-Founding Year,8539,2007.0,2020.0,2015.584,2016.0,3.052,201558.44
-B2B,8539,0.0,1.0,0.677,1.0,0.468,67.7
-Presence in Startup Ecosystem,8539,0.0,1.0,0.659,1.0,0.474,65.87
-Number of Founders,8539,1.0,5.0,2.154,2.0,1.004,215.45
-Single Founder,8539,0.0,1.0,0.291,0.0,0.454,29.07
-Has Female Founder,8539,0.0,1.0,0.239,0.0,0.427,23.91
-Has Grants Before Seed,8539,0.0,1.0,0.047,0.0,0.211,4.67
-Has Angel Round Before Seed,8539,0.0,1.0,0.072,0.0,0.258,7.16
-Year of First Seed Round,8539,2007.0,2022.0,2017.142,2017.0,3.028,201714.24
-Number of Seed Rounds,8539,1.0,5.0,1.787,2.0,0.935,178.67
-Number of Seed Investors,8539,1.0,14.0,3.164,2.0,2.507,316.4
-Has Pre-Seed Round,8539,0.0,1.0,0.306,0.0,0.461,30.62
-Multiple Investments of Investors,8539,0.0,1.0,0.245,0.0,0.43,24.5
-Has Low Seed Funding,8539,0.0,1.0,0.177,0.0,0.382,17.74
-Has High Seed Funding,8539,0.0,1.0,0.098,0.0,0.297,9.79
-Duration Seed Stage (in months),8539,0.0,74.0,11.747,2.8,15.615,1174.66
-Has Lead Investor,8539,0.0,1.0,0.621,1.0,0.485,62.1
-All Homecountry Investors,8539,0.0,1.0,0.457,0.0,0.498,45.67
-Regional Investor,8539,0.0,1.0,0.574,1.0,0.495,57.36
-Regional Venture Capital Investor,8539,0.0,1.0,0.482,0.0,0.5,48.2
-Overregional Syndication,8539,0.0,1.0,0.604,1.0,0.489,60.38
-Accelerator Investor,8539,0.0,1.0,0.318,0.0,0.466,31.83
-Incubator Investor,8539,0.0,1.0,0.091,0.0,0.288,9.1
-Micro VC Investor,8539,0.0,1.0,0.236,0.0,0.424,23.55
-Corporate VC Investor,8539,0.0,1.0,0.086,0.0,0.281,8.64
-University Program Investor,8539,0.0,1.0,0.019,0.0,0.137,1.92
-Entrepreneurship Program Investor,8539,0.0,1.0,0.024,0.0,0.152,2.35
-Family Investment Office Investor,8539,0.0,1.0,0.049,0.0,0.217,4.93
-GDP-growth in founding year of homecountry,8539,-14.63022254,24.6155699,1.062,1.683,3.257,106.23
-Top University Nearby,8539,0.0,1.0,0.699,1.0,0.459,69.88
-Success,8539,0.0,1.0,0.335,0.0,0.472,33.46
-Post Seed Success,8539,0.0,1.0,0.253,0.0,0.435,25.33
-Exit,8539,0.0,1.0,0.13,0.0,0.337,13.05
+Founding Year,8303,2007.0,2020.0,2015.569,2016.0,3.062,201556.91
+B2B,8303,0.0,1.0,0.679,1.0,0.467,67.85
+Presence in Startup Ecosystem,8303,0.0,1.0,0.656,1.0,0.475,65.55
+Number of Founders,8303,1.0,5.0,2.155,2.0,1.002,215.51
+Has Female Founder,8303,0.0,1.0,0.24,0.0,0.427,23.96
+Has Grants Before Seed,8303,0.0,1.0,0.048,0.0,0.214,4.79
+Has Angel Round Before Seed,8303,0.0,1.0,0.068,0.0,0.251,6.78
+Year of First Seed Round,8303,2007.0,2022.0,2017.14,2017.0,3.046,201714.04
+Number of Seed Rounds,8303,1.0,5.0,1.77,2.0,0.926,177.01
+Number of Seed Investors,8303,1.0,14.0,3.176,2.0,2.48,317.64
+Has Pre-Seed Round,8303,0.0,1.0,0.301,0.0,0.459,30.13
+Has Low Seed Funding,8303,0.0,1.0,0.173,0.0,0.378,17.32
+Has High Seed Funding,8303,0.0,1.0,0.099,0.0,0.299,9.9
+Duration Seed Stage (in months),8303,0.0,74.0,11.561,1.4,15.544,1156.11
+Has Lead Investor,8303,0.0,1.0,0.629,1.0,0.483,62.89
+All Homecountry Investors,8303,0.0,1.0,0.451,0.0,0.498,45.13
+Regional Venture Capital Investor,8303,0.0,1.0,0.522,1.0,0.5,52.16
+Regional Institutional Investor,8303,0.0,1.0,0.573,1.0,0.495,57.27
+Venture Capital Syndication,8303,0.0,1.0,0.479,0.0,0.5,47.85
+Geographical Close Syndicate,8303,0.0,1.0,0.56,1.0,0.496,56.02
+Accelerator Investor,8303,0.0,1.0,0.321,0.0,0.467,32.13
+Incubator Investor,8303,0.0,1.0,0.089,0.0,0.285,8.89
+Micro VC Investor,8303,0.0,1.0,0.238,0.0,0.426,23.76
+Corporate VC Investor,8303,0.0,1.0,0.087,0.0,0.281,8.67
+University Program Investor,8303,0.0,1.0,0.02,0.0,0.139,1.96
+Entrepreneurship Program Investor,8303,0.0,1.0,0.024,0.0,0.153,2.38
+Family Investment Office Investor,8303,0.0,1.0,0.05,0.0,0.218,5.02
+GDP-growth in founding year of homecountry,8303,-14.63022254,24.6155699,1.02,1.653,3.255,101.98
+Top University Nearby,8303,0.0,1.0,0.713,1.0,0.452,71.34
+Success,8303,0.0,1.0,0.339,0.0,0.473,33.9
+Post Seed Success,8303,0.0,1.0,0.257,0.0,0.437,25.71
+Exit,8303,0.0,1.0,0.132,0.0,0.339,13.21
